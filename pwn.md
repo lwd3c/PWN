@@ -506,9 +506,7 @@ while True:
         p.interactive()
         exit(0)
 ```
-
-
-
+![alt text](image5-0.png)
 
 ---
 ### Heap
