@@ -506,7 +506,114 @@ while True:
         p.interactive()
         exit(0)
 ```
-![alt text](image5-0.png)
+![alt text](/images/image5-0.png)
 
 ---
-### Heap
+### Heap Exploits
+
+#### Overflow
+> Much like a `stack buffer overflow`, a `heap overflow` is a vulnerability where more data than can fit in the allocated buffer is read in. This could lead to heap metadata corruption, or corruption of other heap objects, which could in turn provide new attack surface.
+
+#### Use After Free (UAF)
+> Once `free` is called on an allocation, the allocator is free to re-allocate that chunk of memory in future calls to `malloc` if it so chooses. However if the program author isn't careful and uses the freed object later on, the contents may be corrupt (or even attacker controlled). This is called a use after free or UAF.
+
+#### Example
+
+![alt text](/images/image-0-6.png)
+
+We’re presented with the above menu. In general, most of the heap pwnables regarding CTFs are menu-driven binaries.
+
+After messing around with the binary’s funcionality, the conclusions are the following:
+
+- We can create pets in order to pet list. Those pets are like C structures. Each pet has the following structure attributes:
+
+```
+struct pet
+{
+	char *name;
+	void (*sound)();
+} *pet_list[8];
+```
+- We get to edit the pet’s name.
+- We get to delete a pet from the pet list.
+- We get to show the pet’s sound.
+- Note that in order to do the four aforementioned actions, we need to first select the pet by entering an **index**. Really important info to remember for later.
+
+#### 1. Add pet
+
+![alt text](/images/image-1-6.png)
+
+After selecting **add_pet** and with index = 1, we see that after allocating heap memory with size 0x10, the address of that area is 0x4052a0 and is saved in RAX. Then save that address in the pet_list structure array with position `pet_list+8`(index = 1)
+
+![alt text](/images/image-2-6.png)
+
+Next, select any type of pet, enter name size and name with any value.
+
+![alt text](/images/image-3-6.png)
+
+Here I enter `name size` as `100` and `name` as `aaaaaaaa`, you can see the green chunk area has size 100 and stores the name value there. The purple chunk area stores the pet value with size 0x10 which is initially initialized with 2 attributes respectively **name** and **sound**. 
+
+![alt text](/images/image-4-6.png)
+
+`0x4052a0` will store the name attribute, and `0x4052a8` will store the sound attribute.
+
+#### 2. Remove pet
+
+Now we will execute the `free` function in the remove pet form list, and with index = 1.
+
+![alt text](/images/image-5-6.png)
+![alt text](/images/image-6-6.png)
+
+At the `remove_pet` function will execute 2 `free` functions used to free 2 previously allocated heap memory areas (green and purple chunks). 2 heap memory areas after being free will be saved in `tcachebins`.
+
+![alt text](/images/image-7-6.png)
+
+However, there is an error here, which is that even though it is free, the pointer to that pet still does not exist and is not freed. And it is still pointing to the previously freed memory.
+
+![alt text](/images/image-8-6.png)
+
+So here we can exploit `Use-After-Free`.
+
+#### 3. Edit pet
+
+In the `edit_pet` function, because the pointer in `pet_list` still exists, we can use index = 1 to exploit it. Then reallocate memory to store the new pet name. And when a new memory area is allocated, if the size of the new memory area is equal to the size of the freed memory area, it will take the freed memory area in `tcachebins` out to reallocate.
+
+![alt text](/images/image-9-6.png)
+
+In the `edit_pet` function, when I reallocate with size 0x10 like the beginning of the program, it will take the freed memory in `tcachebins` to reallocate.
+
+![alt text](/images/image-10-6.png)
+
+And then, when I enter the new name, we can see that it overwrites the purple chunk. 
+
+![alt text](/images/image-11-6.png)
+
+#### 4. Play sound
+
+And the special thing here is that at 0x4052a8 the sound attribute is saved, and when we choose `play sound`, the program will execute the function it is pointing to. So we can control `play sound` as we want.
+
+![alt text](/images/image-12-6.png)
+
+And here, in the program there is also an unused function called `human_sound`, this function will create a shell. So we will overwrite the address of the `human_sound` function to location 0x4052a8 so that when choosing `play_sound`, the program will execute the `human_sound` function and create a shell.
+
+```
+sln(b'> ', 1)
+sln(b'Index: ', 1)
+sln(b'> ', 1)
+sln(b'size: ', 100)
+sla(b'Name: ', b'A')
+
+# Use-After-Free
+sln(b'> ', 3)
+sln(b'Index: ', 1)
+
+sln(b'> ', 2)
+sln(b'Index: ', 1)
+sln(b'size: ', 16)
+sa(b'Name: ', b'A'*8 + p64(exe.sym.human_sound)[:7])        # Here I only enter 15 bytes because the `fgets` function allows to enter up to 0x10 -1 byte = 15 bytes.
+
+sln(b'> ', 4)
+sln(b'Index: ', 1)
+```
+
+![alt text](/images/image-13-6.png)
