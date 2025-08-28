@@ -530,6 +530,9 @@
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-27" value="&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;Lập Hóa đơn thanh toán&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;định kỳ (MB03)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="o2AEMed4fB9Orjbx5e4m-4">
           <mxGeometry x="41.5" y="830.5" width="187" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="ro3qBPp6wIOFKcWqCCKb-38" value="" style="shape=mxgraph.bpmn.data2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" vertex="1" parent="o2AEMed4fB9Orjbx5e4m-4">
+          <mxGeometry x="197" y="904" width="40" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="o2AEMed4fB9Orjbx5e4m-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="o2AEMed4fB9Orjbx5e4m-13" target="o2AEMed4fB9Orjbx5e4m-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
