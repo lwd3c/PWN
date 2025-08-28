@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="6582" dy="1788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4421" dy="1324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,9 +439,6 @@
         <mxCell id="o2AEMed4fB9Orjbx5e4m-13" value="&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;Yêu cầu thuê căn hộ&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="o2AEMed4fB9Orjbx5e4m-1" vertex="1">
           <mxGeometry x="141.37999999999988" y="154" width="170.25" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="o2AEMed4fB9Orjbx5e4m-28" value="Thông báo hồ sơ&amp;nbsp;&lt;div&gt;chưa hợp lệ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="o2AEMed4fB9Orjbx5e4m-1" vertex="1">
-          <mxGeometry x="315" y="448.5" width="144" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="o2AEMed4fB9Orjbx5e4m-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="o2AEMed4fB9Orjbx5e4m-1" source="o2AEMed4fB9Orjbx5e4m-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="286.25" y="472.86882546651987" as="targetPoint" />
@@ -500,6 +497,15 @@
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Web_4-2054/content-form-application-article-paper-879.svg" vertex="1" parent="o2AEMed4fB9Orjbx5e4m-2">
           <mxGeometry x="207" y="635" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="o2AEMed4fB9Orjbx5e4m-28" value="Thông báo hồ&amp;nbsp;&lt;div&gt;sơ&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;chưa hợp lệ&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="o2AEMed4fB9Orjbx5e4m-2" vertex="1">
+          <mxGeometry x="-73" y="448.5" width="127" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ro3qBPp6wIOFKcWqCCKb-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="o2AEMed4fB9Orjbx5e4m-2" source="o2AEMed4fB9Orjbx5e4m-18" target="o2AEMed4fB9Orjbx5e4m-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="67" y="474" as="sourcePoint" />
+            <mxPoint x="-273" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="o2AEMed4fB9Orjbx5e4m-3" value="Bộ phận Kinh doanh" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1786" y="1631" width="336" height="1636" as="geometry" />
         </mxCell>
@@ -535,12 +541,6 @@
         </mxCell>
         <mxCell id="o2AEMed4fB9Orjbx5e4m-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="o2AEMed4fB9Orjbx5e4m-13" target="o2AEMed4fB9Orjbx5e4m-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ro3qBPp6wIOFKcWqCCKb-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="o2AEMed4fB9Orjbx5e4m-18" target="o2AEMed4fB9Orjbx5e4m-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1564" y="2105" as="sourcePoint" />
-            <mxPoint x="1224" y="2103" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-6" value="Đ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1644" y="2156" width="27" height="26" as="geometry" />
