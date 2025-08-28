@@ -130,7 +130,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sWQ5SFZcCKlFku5nDvzA-41" value="Phiếu tiếp nhận khách thuê mới (MB01)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="846.5" y="495" width="240" height="30" as="geometry" />
+          <mxGeometry x="839" y="495" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sWQ5SFZcCKlFku5nDvzA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.018;entryY=0.349;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vl2WKeMVYZH-rLU12oZ2-40" target="Vl2WKeMVYZH-rLU12oZ2-12">
           <mxGeometry relative="1" as="geometry" />
