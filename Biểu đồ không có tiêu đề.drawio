@@ -464,7 +464,7 @@
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-54" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Báo cho bộ phận&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Kinh doanh&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="o2AEMed4fB9Orjbx5e4m-2">
           <mxGeometry x="67.36999999999989" y="480" width="170.25" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ro3qBPp6wIOFKcWqCCKb-68" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Thông báo kết quả&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;cho khách&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="o2AEMed4fB9Orjbx5e4m-2">
+        <mxCell id="ro3qBPp6wIOFKcWqCCKb-68" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Thông báo kết quả&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;cho khách và cập nhật lại&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;dữ liệu&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="o2AEMed4fB9Orjbx5e4m-2">
           <mxGeometry x="51" y="1302" width="187" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-149" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Tiếp nhận kiểm tra lại&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="o2AEMed4fB9Orjbx5e4m-2">
