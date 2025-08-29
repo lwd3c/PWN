@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="1856" dy="1940" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="879" dy="1129" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -939,19 +939,20 @@
             <mxPoint x="204.12" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-208" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Yêu cầu trả căn hộ&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-205">
+        <mxCell id="v9JPyBt3_6Yt727T14DT-208" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Yêu cầu báo cáo&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;doanh thu tháng&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-205">
           <mxGeometry x="118.99999999999989" y="153" width="170.25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-222" value="Bộ phận Kinh doanh" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="867" y="4044" width="289" height="1412" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v9JPyBt3_6Yt727T14DT-222" source="v9JPyBt3_6Yt727T14DT-224">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="151.125" y="309" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v9JPyBt3_6Yt727T14DT-222" source="v9JPyBt3_6Yt727T14DT-224" target="v9JPyBt3_6Yt727T14DT-256">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-224" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Tiếp nhận thông tin&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-222">
           <mxGeometry x="65.99999999999989" y="153" width="170.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-256" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Tổng hợp dữ liệu&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;các loại thu&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-222">
+          <mxGeometry x="65" y="337" width="170.25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-231" value="Bộ phận Kế toán" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1156" y="4044" width="335" height="1412" as="geometry" />
