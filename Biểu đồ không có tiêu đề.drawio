@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="1518" dy="1660" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1856" dy="1940" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -892,9 +892,6 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Web_4-2054/content-form-application-article-paper-879.svg;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-34">
           <mxGeometry x="155" y="864" width="81" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9JPyBt3_6Yt727T14DT-34" source="v9JPyBt3_6Yt727T14DT-91" target="v9JPyBt3_6Yt727T14DT-98">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-91" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Cập nhật công nợ&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-34">
           <mxGeometry x="59" y="1016" width="170.25" height="56" as="geometry" />
         </mxCell>
@@ -905,7 +902,7 @@
           <mxGeometry x="54" y="1156" width="170.25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-98" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Báo kết quả cho Lễ tân&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-34">
-          <mxGeometry x="53" y="1288" width="170.25" height="56" as="geometry" />
+          <mxGeometry x="70" y="1265" width="170.25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="v9JPyBt3_6Yt727T14DT-24" target="v9JPyBt3_6Yt727T14DT-29">
           <mxGeometry relative="1" as="geometry" />
@@ -931,7 +928,35 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9JPyBt3_6Yt727T14DT-86" target="v9JPyBt3_6Yt727T14DT-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9JPyBt3_6Yt727T14DT-98" target="v9JPyBt3_6Yt727T14DT-73">
+        <mxCell id="v9JPyBt3_6Yt727T14DT-205" value="Bộ phận Quản lý" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="488" y="4044" width="379" height="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-206" value="" style="ellipse;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-205">
+          <mxGeometry x="189.12" y="72" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-207" value="" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=6;fontSize=14;" edge="1" parent="v9JPyBt3_6Yt727T14DT-205" source="v9JPyBt3_6Yt727T14DT-206">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204.12" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-208" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Yêu cầu trả căn hộ&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-205">
+          <mxGeometry x="118.99999999999989" y="153" width="170.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-222" value="Bộ phận Kinh doanh" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="867" y="4044" width="289" height="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v9JPyBt3_6Yt727T14DT-222" source="v9JPyBt3_6Yt727T14DT-224">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="151.125" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-224" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Tiếp nhận thông tin&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-222">
+          <mxGeometry x="65.99999999999989" y="153" width="170.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-231" value="Bộ phận Kế toán" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1156" y="4044" width="335" height="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9JPyBt3_6Yt727T14DT-208" target="v9JPyBt3_6Yt727T14DT-224">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
