@@ -873,6 +873,9 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-89" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-1">
           <mxGeometry x="254" y="1002" width="26" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-12" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-1">
+          <mxGeometry x="181" y="814" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-18" value="Bộ phận Lễ tân" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3498" y="3787" width="446" height="1412" as="geometry" />
         </mxCell>
@@ -936,9 +939,6 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-78" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Lập Biên bản nghiệm thu&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;sửa chữa (MB07)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-27">
           <mxGeometry x="79" y="631" width="187" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-12" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-27">
-          <mxGeometry x="-495" y="814" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-73" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Thông báo đã sửa xong&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;cho khách&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-27">
           <mxGeometry x="-229" y="801" width="170.25" height="56" as="geometry" />
         </mxCell>
@@ -946,9 +946,6 @@
           <mxGeometry x="90" y="777" width="166" height="103" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="v9JPyBt3_6Yt727T14DT-27" source="v9JPyBt3_6Yt727T14DT-71" target="v9JPyBt3_6Yt727T14DT-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v9JPyBt3_6Yt727T14DT-27" source="v9JPyBt3_6Yt727T14DT-73" target="v9JPyBt3_6Yt727T14DT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-76" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-27">
@@ -1095,6 +1092,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9JPyBt3_6Yt727T14DT-98" target="v9JPyBt3_6Yt727T14DT-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9JPyBt3_6Yt727T14DT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9JPyBt3_6Yt727T14DT-73" target="v9JPyBt3_6Yt727T14DT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
