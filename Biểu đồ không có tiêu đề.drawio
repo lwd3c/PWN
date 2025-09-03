@@ -1035,7 +1035,7 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v9JPyBt3_6Yt727T14DT-86" target="v9JPyBt3_6Yt727T14DT-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-205" value="Bộ phận Quản lý" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="v9JPyBt3_6Yt727T14DT-205" value="Bộ phận Quản lý (M2.1)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="488" y="4044" width="379" height="841" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-206" value="" style="ellipse;html=1;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-205" vertex="1">
@@ -1061,7 +1061,7 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-296" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-205" vertex="1">
           <mxGeometry x="164" y="777" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-222" value="Bộ phận Kinh doanh" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="v9JPyBt3_6Yt727T14DT-222" value="Bộ phận Kinh doanh (BP02)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="867" y="4044" width="289" height="841" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-224" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Nhận yêu cầu báo cáo&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-222" vertex="1">
@@ -1076,7 +1076,7 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-258" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Chuyển cho bộ phận&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Kế toán&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-222" vertex="1">
           <mxGeometry x="65" y="498" width="170.25" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-231" value="Bộ phận Kế toán" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="v9JPyBt3_6Yt727T14DT-231" value="Bộ phận Kế toán (BP04)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1156" y="4044" width="335" height="841" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="v9JPyBt3_6Yt727T14DT-231" source="v9JPyBt3_6Yt727T14DT-260" target="v9JPyBt3_6Yt727T14DT-262" edge="1">
@@ -1135,7 +1135,7 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v9JPyBt3_6Yt727T14DT-292" target="v9JPyBt3_6Yt727T14DT-256" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-315" value="Bộ phận Quản lý" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="v9JPyBt3_6Yt727T14DT-315" value="Bộ phận Quản lý (M2.1)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1865" y="4126" width="379" height="841" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-316" value="" style="ellipse;html=1;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-315" vertex="1">
@@ -1161,7 +1161,7 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-322" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-315" vertex="1">
           <mxGeometry x="164" y="777" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-323" value="Bộ phận Kinh doanh" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="v9JPyBt3_6Yt727T14DT-323" value="Bộ phận Kinh doanh (BP02)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2244" y="4126" width="289" height="841" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-324" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Nhận yêu cầu báo cáo&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-323" vertex="1">
@@ -1176,7 +1176,7 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-327" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Chuyển cho bộ phận&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Kế toán&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-323" vertex="1">
           <mxGeometry x="65" y="498" width="170.25" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-328" value="Bộ phận Kế toán" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="v9JPyBt3_6Yt727T14DT-328" value="Bộ phận Kế toán (BP04)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2533" y="4126" width="335" height="841" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-329" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="v9JPyBt3_6Yt727T14DT-328" source="v9JPyBt3_6Yt727T14DT-330" target="v9JPyBt3_6Yt727T14DT-331" edge="1">
