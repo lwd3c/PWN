@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="2850" dy="1557" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2101" dy="1391" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1170,7 +1170,7 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-292" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Cung cấp khoảng&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;thời gian&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cần báo cáo&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="v9JPyBt3_6Yt727T14DT-205" vertex="1">
           <mxGeometry x="114" y="330" width="170.25" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-296" value="" style="ellipse;html=1;shape=endState;fontSize=14;labelBackgroundColor=none;" parent="v9JPyBt3_6Yt727T14DT-205" vertex="1">
+        <mxCell id="v9JPyBt3_6Yt727T14DT-296" value="" style="ellipse;html=1;shape=endState;fontSize=14;labelBackgroundColor=none;fillColor=#000000;" parent="v9JPyBt3_6Yt727T14DT-205" vertex="1">
           <mxGeometry x="164" y="777" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-222" value="Bộ phận Kinh doanh (BP02)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
