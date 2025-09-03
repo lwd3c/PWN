@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="1564" dy="1268" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2275" dy="1662" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -617,7 +617,7 @@
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-83" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;" parent="ro3qBPp6wIOFKcWqCCKb-75" vertex="1">
           <mxGeometry x="168" y="530.5" width="27" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="ro3qBPp6wIOFKcWqCCKb-84" value="" style="ellipse;html=1;shape=endState;fontSize=14;labelBackgroundColor=none;" parent="ro3qBPp6wIOFKcWqCCKb-75" vertex="1">
+        <mxCell id="ro3qBPp6wIOFKcWqCCKb-84" value="" style="ellipse;html=1;shape=endState;fontSize=14;labelBackgroundColor=none;fillColor=#000000;" parent="ro3qBPp6wIOFKcWqCCKb-75" vertex="1">
           <mxGeometry x="183" y="591" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;labelBackgroundColor=none;fontColor=default;" parent="ro3qBPp6wIOFKcWqCCKb-75" source="ro3qBPp6wIOFKcWqCCKb-86" target="ro3qBPp6wIOFKcWqCCKb-91" edge="1">
@@ -641,7 +641,7 @@
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-91" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Thanh toán&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="ro3qBPp6wIOFKcWqCCKb-75" vertex="1">
           <mxGeometry x="112.88000000000001" y="1178" width="170.25" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ro3qBPp6wIOFKcWqCCKb-92" value="" style="ellipse;html=1;shape=endState;fontSize=14;labelBackgroundColor=none;" parent="ro3qBPp6wIOFKcWqCCKb-75" vertex="1">
+        <mxCell id="ro3qBPp6wIOFKcWqCCKb-92" value="" style="ellipse;html=1;shape=endState;fontSize=14;labelBackgroundColor=none;fillColor=#000000;" parent="ro3qBPp6wIOFKcWqCCKb-75" vertex="1">
           <mxGeometry x="179" y="1320" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-93" value="Bộ phận Lễ tân (BP01)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -780,7 +780,7 @@
           <mxGeometry x="168" y="832" width="121" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Exa10wzhvk79oUtJ-RMI-1" value="Hóa đơn thanh&lt;div&gt;toán (MB03)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;labelBackgroundColor=none;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-114">
-          <mxGeometry x="32" y="833" width="121" height="70" as="geometry" />
+          <mxGeometry x="28" y="832" width="121" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Exa10wzhvk79oUtJ-RMI-2" value="" style="html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="ro3qBPp6wIOFKcWqCCKb-114" source="ro3qBPp6wIOFKcWqCCKb-115" target="Exa10wzhvk79oUtJ-RMI-1">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
