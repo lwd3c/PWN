@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="2443" dy="1391" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1216" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1030,7 +1030,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-76" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="v9JPyBt3_6Yt727T14DT-27" vertex="1">
-          <mxGeometry x="76" y="795" width="26" height="26" as="geometry" />
+          <mxGeometry x="69" y="830" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-68" value="" style="ellipse;html=1;shape=endState;fontSize=14;labelBackgroundColor=none;fillColor=#000000;" parent="v9JPyBt3_6Yt727T14DT-27" vertex="1">
           <mxGeometry x="301" y="337" width="30" height="30" as="geometry" />
@@ -1067,6 +1067,9 @@
               <mxPoint x="219" y="737" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Exa10wzhvk79oUtJ-RMI-15" value="Đ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-27">
+          <mxGeometry x="254" y="832" width="27" height="26" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-34" value="Bộ phận Kế toán (BP04)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="4345" y="3787" width="325" height="1412" as="geometry" />
