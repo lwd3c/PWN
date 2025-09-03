@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="3728" dy="2135" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2742" dy="2008" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -692,10 +692,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dL7X7ZXrZZoYh5F-g-OW-1" value="Thông tin&lt;div&gt;khách thuê&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-93">
+        <mxCell id="dL7X7ZXrZZoYh5F-g-OW-1" value="Thông tin&lt;div&gt;khách thuê&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" parent="ro3qBPp6wIOFKcWqCCKb-93" vertex="1">
           <mxGeometry x="265" y="620" width="121" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dL7X7ZXrZZoYh5F-g-OW-2" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ro3qBPp6wIOFKcWqCCKb-93" source="ro3qBPp6wIOFKcWqCCKb-101" target="dL7X7ZXrZZoYh5F-g-OW-1">
+        <mxCell id="dL7X7ZXrZZoYh5F-g-OW-2" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ro3qBPp6wIOFKcWqCCKb-93" source="ro3qBPp6wIOFKcWqCCKb-101" target="dL7X7ZXrZZoYh5F-g-OW-1" edge="1">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="155" y="667" as="sourcePoint" />
             <mxPoint x="256" y="623" as="targetPoint" />
@@ -734,10 +734,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dL7X7ZXrZZoYh5F-g-OW-3" value="Hợp đồng thuê&lt;div&gt;căn hộ (MB02)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-108">
+        <mxCell id="dL7X7ZXrZZoYh5F-g-OW-3" value="Hợp đồng thuê&lt;div&gt;căn hộ (MB02)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" parent="ro3qBPp6wIOFKcWqCCKb-108" vertex="1">
           <mxGeometry x="333" y="928" width="121" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dL7X7ZXrZZoYh5F-g-OW-4" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ro3qBPp6wIOFKcWqCCKb-108" source="ro3qBPp6wIOFKcWqCCKb-111" target="dL7X7ZXrZZoYh5F-g-OW-3">
+        <mxCell id="dL7X7ZXrZZoYh5F-g-OW-4" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ro3qBPp6wIOFKcWqCCKb-108" source="ro3qBPp6wIOFKcWqCCKb-111" target="dL7X7ZXrZZoYh5F-g-OW-3" edge="1">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="321" y="912" as="sourcePoint" />
             <mxPoint x="446" y="872" as="targetPoint" />
