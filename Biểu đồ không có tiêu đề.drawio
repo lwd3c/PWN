@@ -1616,6 +1616,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="vhjfw-2zAY8xRYCg7VVF-119" value="Yêu cầu trả căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3535" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
