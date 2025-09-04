@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="1369" dy="2380" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="1980" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1383,7 +1383,7 @@
           <mxGeometry x="3150" y="210" width="282" height="156" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-15" value="&lt;font&gt;Bộ phận Quản lý (M2.1)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4380" y="-540" width="280" height="160" as="geometry" />
+          <mxGeometry x="5080" y="-240" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.884;exitY=0.829;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="vhjfw-2zAY8xRYCg7VVF-14" target="vhjfw-2zAY8xRYCg7VVF-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1805,6 +1805,18 @@
         </mxCell>
         <mxCell id="jpeAPEqASeK6BdT8TFQH-23" value="Hóa đơn thu phí dịch vụ (MB08)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3820" y="-310" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpeAPEqASeK6BdT8TFQH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-15" target="vhjfw-2zAY8xRYCg7VVF-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5050" y="-190" as="sourcePoint" />
+            <mxPoint x="4162" y="-121" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4160" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpeAPEqASeK6BdT8TFQH-30" value="Yêu cầu báo cáo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="-190" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
