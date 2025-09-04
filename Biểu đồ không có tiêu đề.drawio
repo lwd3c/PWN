@@ -1385,8 +1385,14 @@
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-15" value="&lt;font&gt;Bộ phận Quản lý (M2.1)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="5030" y="140" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="vhjfw-2zAY8xRYCg7VVF-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-14" target="vhjfw-2zAY8xRYCg7VVF-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vhjfw-2zAY8xRYCg7VVF-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-14" target="vhjfw-2zAY8xRYCg7VVF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3730" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3391" y="640" />
+              <mxPoint x="3757" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-76" value="Yêu cầu thuê căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3480" y="610" width="150" height="30" as="geometry" />
@@ -1395,16 +1401,27 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3750" y="670" as="sourcePoint" />
             <mxPoint x="3776" y="922" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3760" y="680" />
+              <mxPoint x="3357" y="680" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-80" value="Tiếp đón, giới thiệu căn hộ và các dịch vụ liên quan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3385" y="640" width="340" height="30" as="geometry" />
+          <mxGeometry x="3390" y="650" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.602;exitY=0.997;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.401;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-14" target="vhjfw-2zAY8xRYCg7VVF-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3390" y="390" as="sourcePoint" />
             <mxPoint x="3756" y="682" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3320" y="720" />
+              <mxPoint x="3758" y="720" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vhjfw-2zAY8xRYCg7VVF-83" value="Thông tin cá nhân, nhu cầu thuê" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3435" y="690" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
