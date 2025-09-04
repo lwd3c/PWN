@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="1518" dy="1660" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1285" dy="1466" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1364,7 +1364,7 @@
           <mxGeometry y="40" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-8" value="Bộ phận Kinh doanh (BP02)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;swimlaneLine=1;fontFamily=Helvetica;fontSize=14;spacing=5;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="4080" y="80" width="200" height="290" as="geometry">
+          <mxGeometry x="4080" y="-120" width="200" height="290" as="geometry">
             <mxRectangle x="66" y="302" width="133" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1484,32 +1484,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vhjfw-2zAY8xRYCg7VVF-95" value="Phiếu tiếp nhận khách thuê (MB01)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="610" width="240" height="30" as="geometry" />
+        <mxCell id="vhjfw-2zAY8xRYCg7VVF-95" value="Phiếu tiếp nhận khách thuê (MB01)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="3980" y="400" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.16;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-9" target="vhjfw-2zAY8xRYCg7VVF-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4010" y="160" as="sourcePoint" />
             <mxPoint x="3220" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3200" y="160" />
+              <mxPoint x="3200" y="-40" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-97" value="Đưa khách đi xem căn hộ, giới thiệu chi tiết tiện ích, dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3480" y="130" width="390" height="30" as="geometry" />
+          <mxGeometry x="3490" y="-70" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.312;exitY=0.026;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-14" target="vhjfw-2zAY8xRYCg7VVF-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3520" y="230" as="sourcePoint" />
             <mxPoint x="4060" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3238" y="200" />
+              <mxPoint x="3238" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vhjfw-2zAY8xRYCg7VVF-100" value="Khách đồng ý thuê" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3605" y="170" width="140" height="30" as="geometry" />
+        <mxCell id="vhjfw-2zAY8xRYCg7VVF-100" value="Xác nhận căn hộ, thời hạn, giá thuê" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3555" y="-30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhjfw-2zAY8xRYCg7VVF-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.015;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.461;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-9" target="vhjfw-2zAY8xRYCg7VVF-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4050" y="40" as="sourcePoint" />
+            <mxPoint x="3270" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4077" y="40" />
+              <mxPoint x="3280" y="40" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
