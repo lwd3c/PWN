@@ -1383,7 +1383,7 @@
           <mxGeometry x="3150" y="210" width="282" height="156" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-15" value="&lt;font&gt;Bộ phận Quản lý (M2.1)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5030" y="140" width="280" height="160" as="geometry" />
+          <mxGeometry x="5240" y="-210" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.884;exitY=0.829;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-14" target="vhjfw-2zAY8xRYCg7VVF-3">
           <mxGeometry relative="1" as="geometry">
