@@ -1400,6 +1400,12 @@
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-80" value="Tiếp đón, giới thiệu căn hộ và các dịch vụ liên quan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3385" y="640" width="340" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vhjfw-2zAY8xRYCg7VVF-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.602;exitY=0.997;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.401;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-14" target="vhjfw-2zAY8xRYCg7VVF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3390" y="390" as="sourcePoint" />
+            <mxPoint x="3756" y="682" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
