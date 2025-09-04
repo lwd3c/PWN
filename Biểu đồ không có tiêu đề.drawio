@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="2053" dy="2770" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="1416" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1766,6 +1766,20 @@
         </mxCell>
         <mxCell id="jpeAPEqASeK6BdT8TFQH-14" value="Thực hiện sửa chữa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3875" y="930" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpeAPEqASeK6BdT8TFQH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.014;exitY=0.793;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-11" target="vhjfw-2zAY8xRYCg7VVF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4370" y="780" as="sourcePoint" />
+            <mxPoint x="4000" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4517" y="840" />
+              <mxPoint x="4410" y="840" />
+              <mxPoint x="3960" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpeAPEqASeK6BdT8TFQH-18" value="Biên bản nghiệm thu sửa chữa (MB07)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="4100" y="810" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
