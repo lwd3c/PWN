@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="880" dy="1416" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="1822" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1554,14 +1554,13 @@
             <mxPoint x="4860" y="-340" as="sourcePoint" />
             <mxPoint x="3160" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4759" y="-320" />
-              <mxPoint x="3159" y="-320" />
-              <mxPoint x="3159" y="-72" />
+              <mxPoint x="4759" y="-200" />
+              <mxPoint x="3159" y="-200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-108" value="Hóa đơn thanh toán (MB03)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="3820" y="-350" width="200" height="30" as="geometry" />
+          <mxGeometry x="3830" y="-230" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.449;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vhjfw-2zAY8xRYCg7VVF-14" target="vhjfw-2zAY8xRYCg7VVF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1569,13 +1568,13 @@
             <mxPoint x="3842" y="20" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3120" y="280" />
-              <mxPoint x="3120" y="-360" />
-              <mxPoint x="4800" y="-360" />
+              <mxPoint x="3120" y="-240" />
+              <mxPoint x="4800" y="-240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-110" value="Thanh toán" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="3875" y="-390" width="90" height="30" as="geometry" />
+          <mxGeometry x="3880" y="-270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.203;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vhjfw-2zAY8xRYCg7VVF-6" target="vhjfw-2zAY8xRYCg7VVF-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1688,13 +1687,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4120" y="-120" />
-              <mxPoint x="4120" y="-280" />
-              <mxPoint x="3259" y="-280" />
+              <mxPoint x="4120" y="-160" />
+              <mxPoint x="3259" y="-160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vhjfw-2zAY8xRYCg7VVF-131" value="Biên bản thanh lý hợp đồng (MB05)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="3540" y="-310" width="250" height="30" as="geometry" />
+          <mxGeometry x="3550" y="-190" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpeAPEqASeK6BdT8TFQH-1" value="Biên bản thanh lý hợp đồng (MB05)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="4370" y="-30" width="250" height="30" as="geometry" />
@@ -1780,6 +1779,32 @@
         </mxCell>
         <mxCell id="jpeAPEqASeK6BdT8TFQH-18" value="Biên bản nghiệm thu sửa chữa (MB07)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="4100" y="810" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpeAPEqASeK6BdT8TFQH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.799;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.199;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-11" target="vhjfw-2zAY8xRYCg7VVF-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4740" y="720" as="sourcePoint" />
+            <mxPoint x="5410" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4880" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpeAPEqASeK6BdT8TFQH-20" value="Biên bản nghiệm thu sửa chữa (MB07)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="4720" y="720" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpeAPEqASeK6BdT8TFQH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.604;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-5" target="vhjfw-2zAY8xRYCg7VVF-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4870" y="-160" as="sourcePoint" />
+            <mxPoint x="3220" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4841" y="-160" />
+              <mxPoint x="4840" y="-280" />
+              <mxPoint x="3221" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpeAPEqASeK6BdT8TFQH-23" value="Hóa đơn thu phí dịch vụ (MB08)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="-310" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
