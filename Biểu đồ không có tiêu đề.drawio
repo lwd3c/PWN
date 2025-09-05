@@ -2494,6 +2494,19 @@
         <mxCell id="pb3Zh7YwqWF0vtl7zJI9-4" value="MB01" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="1540" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.796;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.008;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vhjfw-2zAY8xRYCg7VVF-6" target="vhjfw-2zAY8xRYCg7VVF-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4290" y="180" as="sourcePoint" />
+            <mxPoint x="4728" y="182" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4360" y="119" />
+              <mxPoint x="4360" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-6" value="Yêu cầu tổng hợp lại" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="4415" y="90" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
