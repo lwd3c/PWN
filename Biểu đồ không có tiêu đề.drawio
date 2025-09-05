@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="2631" dy="1468" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4275" dy="2520" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -727,9 +727,6 @@
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-102" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;" parent="ro3qBPp6wIOFKcWqCCKb-93" vertex="1">
           <mxGeometry x="110" y="562" width="27" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="ro3qBPp6wIOFKcWqCCKb-103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Web_4-2054/content-form-application-article-paper-879.svg;fontSize=14;" parent="ro3qBPp6wIOFKcWqCCKb-93" vertex="1">
-          <mxGeometry x="250" y="662" width="53" height="53" as="geometry" />
-        </mxCell>
         <mxCell id="jpeAPEqASeK6BdT8TFQH-62" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="ro3qBPp6wIOFKcWqCCKb-93" source="ro3qBPp6wIOFKcWqCCKb-101" target="jpeAPEqASeK6BdT8TFQH-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -787,6 +784,9 @@
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-106" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Báo cho bộ phận&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Kinh doanh&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="ro3qBPp6wIOFKcWqCCKb-93" vertex="1">
           <mxGeometry x="139.9999999999999" y="942" width="170.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-7" value="MB01" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-93">
+          <mxGeometry x="96" y="634" width="86" height="77" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-108" value="Bộ phận Kinh doanh (BP02)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1757" y="1898" width="463" height="1942" as="geometry" />
