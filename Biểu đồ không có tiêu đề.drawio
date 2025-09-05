@@ -794,6 +794,9 @@
         <mxCell id="pb3Zh7YwqWF0vtl7zJI9-47" value="MB02" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-93">
           <mxGeometry x="204" y="1153" width="86" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-48" value="MB03" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-93">
+          <mxGeometry x="316" y="1392" width="93" height="75" as="geometry" />
+        </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-108" value="Bộ phận Kinh doanh (BP02)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1757" y="1898" width="463" height="1942" as="geometry" />
         </mxCell>
@@ -850,10 +853,7 @@
           <mxGeometry x="6" y="921" width="82" height="71" as="geometry" />
         </mxCell>
         <mxCell id="pb3Zh7YwqWF0vtl7zJI9-50" value="MB02" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-108">
-          <mxGeometry x="352" y="1301" width="86" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-48" value="MB03" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-108">
-          <mxGeometry x="357" y="1443" width="92" height="75" as="geometry" />
+          <mxGeometry x="354" y="1321" width="86" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-114" value="Bộ phận Kế toán (BP04)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2220" y="1898" width="460" height="1942" as="geometry" />
