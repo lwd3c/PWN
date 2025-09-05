@@ -1315,7 +1315,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-343" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Web_4-2054/content-form-application-article-paper-879.svg;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-231" vertex="1">
-          <mxGeometry x="184" y="563" width="55" height="55" as="geometry" />
+          <mxGeometry x="25" y="462" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="v9JPyBt3_6Yt727T14DT-208" target="v9JPyBt3_6Yt727T14DT-224" edge="1">
           <mxGeometry relative="1" as="geometry" />
