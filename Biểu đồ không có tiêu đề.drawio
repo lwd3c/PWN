@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="2280" dy="1325" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1398" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -665,7 +665,7 @@
           <mxGeometry x="149" y="652" width="27" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-84" value="" style="ellipse;html=1;shape=endState;fontSize=14;labelBackgroundColor=none;fillColor=#000000;" parent="ro3qBPp6wIOFKcWqCCKb-75" vertex="1">
-          <mxGeometry x="159" y="822" width="41" height="38" as="geometry" />
+          <mxGeometry x="157" y="849" width="41" height="38" as="geometry" />
         </mxCell>
         <mxCell id="jpeAPEqASeK6BdT8TFQH-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="ro3qBPp6wIOFKcWqCCKb-75" source="jpeAPEqASeK6BdT8TFQH-58" target="ro3qBPp6wIOFKcWqCCKb-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -786,7 +786,10 @@
           <mxGeometry x="139.9999999999999" y="942" width="170.25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="pb3Zh7YwqWF0vtl7zJI9-7" value="MB01" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-93">
-          <mxGeometry x="96" y="634" width="86" height="77" as="geometry" />
+          <mxGeometry x="113" y="641" width="86" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-47" value="MB02" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-93">
+          <mxGeometry x="202" y="1147" width="92" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-108" value="Bộ phận Kinh doanh (BP02)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1757" y="1898" width="463" height="1942" as="geometry" />
@@ -799,9 +802,6 @@
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-111" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Lập Hợp đồng thuê&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;căn hộ&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(MB02)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="ro3qBPp6wIOFKcWqCCKb-108" vertex="1">
           <mxGeometry x="173" y="1110" width="170.25" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ro3qBPp6wIOFKcWqCCKb-112" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Web_4-2054/content-form-application-article-paper-879.svg;fontSize=14;" parent="ro3qBPp6wIOFKcWqCCKb-108" vertex="1">
-          <mxGeometry x="109" y="1074" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-113" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Báo cho bộ phận&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Kế toán&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="ro3qBPp6wIOFKcWqCCKb-108" vertex="1">
           <mxGeometry x="173.0000000000001" y="1342" width="170.25" height="56" as="geometry" />
@@ -858,9 +858,6 @@
         <mxCell id="Exa10wzhvk79oUtJ-RMI-1" value="Hóa đơn thanh&lt;div&gt;toán (MB03)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;labelBackgroundColor=none;" parent="ro3qBPp6wIOFKcWqCCKb-114" vertex="1">
           <mxGeometry x="130" y="1112" width="121" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ro3qBPp6wIOFKcWqCCKb-116" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Web_4-2054/content-form-application-article-paper-879.svg;fontSize=14;" parent="ro3qBPp6wIOFKcWqCCKb-114" vertex="1">
-          <mxGeometry x="90" y="1363" width="58" height="58" as="geometry" />
-        </mxCell>
         <mxCell id="jpeAPEqASeK6BdT8TFQH-73" value="" style="html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="ro3qBPp6wIOFKcWqCCKb-114" source="ro3qBPp6wIOFKcWqCCKb-115" target="Exa10wzhvk79oUtJ-RMI-1" edge="1">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="170" y="1241" as="sourcePoint" />
@@ -901,6 +898,9 @@
               <mxPoint x="377" y="1692" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-48" value="MB03" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="ro3qBPp6wIOFKcWqCCKb-114">
+          <mxGeometry x="20" y="1360" width="92" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-120" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" parent="1" source="ro3qBPp6wIOFKcWqCCKb-78" target="ro3qBPp6wIOFKcWqCCKb-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
