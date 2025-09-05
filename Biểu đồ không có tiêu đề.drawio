@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="1487" dy="1003" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1629" dy="1208" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -982,9 +982,6 @@
         <mxCell id="v9JPyBt3_6Yt727T14DT-22" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Lập Phiếu yêu cầu sửa&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;chữa&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;(MB06)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="v9JPyBt3_6Yt727T14DT-18" vertex="1">
           <mxGeometry x="64.0000000000001" y="420" width="170.25" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="v9JPyBt3_6Yt727T14DT-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Web_4-2054/content-form-application-article-paper-879.svg;fontSize=14;" parent="v9JPyBt3_6Yt727T14DT-18" vertex="1">
-          <mxGeometry x="184" y="353" width="58" height="58" as="geometry" />
-        </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-24" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Báo cho bộ phận&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Kỹ thuật&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="v9JPyBt3_6Yt727T14DT-18" vertex="1">
           <mxGeometry x="62.999999999999886" y="549" width="170.25" height="56" as="geometry" />
         </mxCell>
@@ -1006,20 +1003,26 @@
         <mxCell id="Gqg18IIIzfC_09oHock3-170" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Lấy thông tin khách thuê&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="v9JPyBt3_6Yt727T14DT-18" vertex="1">
           <mxGeometry x="65" y="263" width="170.25" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="Gqg18IIIzfC_09oHock3-171" value="" style="html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.42;entryY=0.983;entryDx=0;entryDy=0;fontColor=default;entryPerimeter=0;" parent="v9JPyBt3_6Yt727T14DT-18" source="Gqg18IIIzfC_09oHock3-170" target="Gqg18IIIzfC_09oHock3-168" edge="1">
-          <mxGeometry width="60" height="60" relative="1" as="geometry">
-            <mxPoint x="237" y="253" as="sourcePoint" />
-            <mxPoint x="310.2399999999998" y="285.1700000000001" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="343" y="291" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Gqg18IIIzfC_09oHock3-168" value="Thông tin&lt;div&gt;khách thuê&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;labelBackgroundColor=none;" parent="v9JPyBt3_6Yt727T14DT-18" vertex="1">
           <mxGeometry x="292" y="169" width="121" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-73" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Thông báo đã sửa xong&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;cho khách&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="v9JPyBt3_6Yt727T14DT-18" vertex="1">
           <mxGeometry x="122" y="826" width="170.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-68" value="MB06" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-18">
+          <mxGeometry x="283" y="532" width="86" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-69" value="MB06" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-18">
+          <mxGeometry x="53" y="479" width="86" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-70" value="" style="html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;exitX=0.444;exitY=0.988;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;exitPerimeter=0;" edge="1" parent="v9JPyBt3_6Yt727T14DT-18" source="Gqg18IIIzfC_09oHock3-168" target="Gqg18IIIzfC_09oHock3-170">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="291" y="340" as="sourcePoint" />
+            <mxPoint x="399" y="287" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="346" y="293" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-27" value="Bộ phận Kỹ thuật (BP03)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="4165" y="4140" width="401" height="1412" as="geometry" />
