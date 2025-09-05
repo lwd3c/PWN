@@ -603,7 +603,7 @@
           <mxGeometry x="74" y="1688" width="187" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-134" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Kiểm tra các khoản&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;thu còn thiếu&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" parent="o2AEMed4fB9Orjbx5e4m-4" vertex="1">
-          <mxGeometry x="166" y="1088" width="187" height="65" as="geometry" />
+          <mxGeometry x="166" y="1090" width="187" height="65" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-277" value="" style="html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.43;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;" parent="o2AEMed4fB9Orjbx5e4m-4" source="ro3qBPp6wIOFKcWqCCKb-27" target="v9JPyBt3_6Yt727T14DT-290" edge="1">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
@@ -631,6 +631,9 @@
         </mxCell>
         <mxCell id="Exa10wzhvk79oUtJ-RMI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="o2AEMed4fB9Orjbx5e4m-4" source="ro3qBPp6wIOFKcWqCCKb-27" target="ro3qBPp6wIOFKcWqCCKb-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb3Zh7YwqWF0vtl7zJI9-60" value="MB05" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="o2AEMed4fB9Orjbx5e4m-4">
+          <mxGeometry x="10" y="1075" width="82" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ro3qBPp6wIOFKcWqCCKb-75" value="Khách hàng (M1.1)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="941" y="1898" width="379" height="1942" as="geometry" />
