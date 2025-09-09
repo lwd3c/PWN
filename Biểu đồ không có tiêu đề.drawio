@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="3382" dy="731" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3801" dy="970" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3366,6 +3366,19 @@
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-245" value="Hóa đơn thu phí dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-830" y="1980" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.588;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RkeHMzVyt21PPHbQ2xOW-68" target="RkeHMzVyt21PPHbQ2xOW-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-600" y="1780" as="sourcePoint" />
+            <mxPoint x="-299" y="1880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-840" y="1750" />
+              <mxPoint x="-522" y="1750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-249" value="Thông tin cá nhân, nhu cầu thuê" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="1720" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
