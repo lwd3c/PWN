@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="2517" dy="1149" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2288" dy="1019" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2760,73 +2760,109 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-10" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;VI&quot;&gt;Quản lý cho thuê căn hộ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tại một khu chung cư&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-807" y="838" width="185" height="65" as="geometry" />
+          <mxGeometry x="-810" y="790" width="177" height="53" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-12" value="&lt;span lang=&quot;VI&quot;&gt;Quản lý trả căn hộ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-937" y="1008" width="120" height="36" as="geometry" />
+          <mxGeometry x="-920" y="920" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-13" value="&lt;span lang=&quot;VI&quot;&gt;Quản lý sửa chữa căn hộ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-719" y="1008" width="120" height="36" as="geometry" />
+          <mxGeometry x="-680" y="920" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-14" value="&lt;span style=&quot;line-height: 106%;&quot;&gt;Quản lý báo cáo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-514" y="1013" width="120" height="36" as="geometry" />
+          <mxGeometry x="-460" y="920" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-15" value="&lt;span lang=&quot;VI&quot;&gt;Quản lý thuê căn hộ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="1004" width="120" height="36" as="geometry" />
+          <mxGeometry x="-1120" y="920" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-16" value="&lt;span&gt;Tiếp nhận thông tin khách thuê&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1085" y="1115" width="120" height="36" as="geometry" />
+          <mxGeometry x="-1060" y="1000" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-17" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập phiếu tiếp nhận khách thuê&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1116" y="1256" width="120" height="36" as="geometry" />
+          <mxGeometry x="-1060" y="1160" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-18" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập&lt;br&gt;hóa đơn thanh toán&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1089" y="1430" width="120" height="36" as="geometry" />
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-18" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập hóa đơn thanh toán&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="1320" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-19" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập hợp&lt;br&gt;đồng thuê&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1144" y="1343" width="120" height="36" as="geometry" />
+          <mxGeometry x="-1060" y="1240" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-20" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Kiểm tra giấy tờ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1115" y="1181" width="120" height="36" as="geometry" />
+          <mxGeometry x="-1060" y="1080" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-21" value="&lt;span&gt;Tiếp nhận yêu cầu&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;trả căn hộ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-901" y="1078" width="142" height="50" as="geometry" />
+          <mxGeometry x="-860" y="1000" width="131" height="42" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-22" value="&lt;span&gt;Cập&lt;br&gt;nhật thông tin căn hộ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-858" y="1524" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-23" value="&lt;span&gt;Kiểm&lt;br&gt;tra công nợ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-749" y="1324" width="120" height="36" as="geometry" />
+          <mxGeometry x="-860" y="1240" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-24" value="&lt;span&gt;Lập&lt;br&gt;phiếu trả căn hộ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-868" y="1156" width="120" height="36" as="geometry" />
+          <mxGeometry x="-860" y="1080" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-25" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập biên bản thanh lý hợp đồng&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-892" y="1355" width="120" height="36" as="geometry" />
+          <mxGeometry x="-860" y="1320" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-26" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Kiểm&lt;br&gt;tra tình trạng căn hộ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-889" y="1229" width="120" height="36" as="geometry" />
+          <mxGeometry x="-860" y="1160" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-27" value="&lt;span&gt;Lập&lt;br&gt;phiếu sửa chữa&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-653" y="1092" width="120" height="36" as="geometry" />
+          <mxGeometry x="-620" y="1000" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-28" value="&lt;span&gt;Lập biên bản nghiệm thu sửa chữa&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-637" y="1137" width="120" height="36" as="geometry" />
+          <mxGeometry x="-620" y="1080" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-29" value="&lt;span&gt;Lập&lt;br&gt;hóa đơn dịch vụ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-628" y="1196" width="120" height="36" as="geometry" />
+          <mxGeometry x="-620" y="1160" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-30" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Tổng hợp&lt;br&gt;hợp đồng và chi phí&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-454" y="1071" width="120" height="36" as="geometry" />
+          <mxGeometry x="-400" y="1000" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-31" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập&lt;br&gt;báo cáo hợp đồng&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-444" y="1279" width="120" height="36" as="geometry" />
+          <mxGeometry x="-400" y="1240" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-32" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Đối chiếu và tổng hợp số liệu&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-427" y="1137" width="120" height="36" as="geometry" />
+          <mxGeometry x="-400" y="1080" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-33" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập&lt;br&gt;báo cáo doanh thu&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-402" y="1186" width="120" height="36" as="geometry" />
+          <mxGeometry x="-402" y="1160" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-37" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1060" y="880" as="sourcePoint" />
+            <mxPoint x="-400" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-39" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RkeHMzVyt21PPHbQ2xOW-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1100" y="1050" as="sourcePoint" />
+            <mxPoint x="-1060" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-40" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-860" y="920" as="sourcePoint" />
+            <mxPoint x="-860" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-41" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="920" as="sourcePoint" />
+            <mxPoint x="-620" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-42" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="920" as="sourcePoint" />
+            <mxPoint x="-400" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-43" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="RkeHMzVyt21PPHbQ2xOW-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="880" as="sourcePoint" />
+            <mxPoint x="-720" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
