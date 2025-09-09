@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="2127" dy="927" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2672" dy="1238" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,7 +362,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZnyHOmNSNu3riY8bAgTM-22" value="Tên luồng tt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="463" y="1535" width="81" height="26" as="geometry" />
+          <mxGeometry x="450" y="1510" width="81" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZnyHOmNSNu3riY8bAgTM-23" value="Không có hoặc không đủ hàng" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="759" y="1080" width="134" height="97" as="geometry" />
@@ -3010,6 +3010,9 @@
             <mxPoint x="66" y="1886" as="sourcePoint" />
             <mxPoint x="-804" y="1936" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-77" value="Yêu cầu thuê căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="1750" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
