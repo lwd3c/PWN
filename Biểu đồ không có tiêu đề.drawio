@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="1958" dy="832" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1970" dy="1289" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2711,8 +2711,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="541" y="1132" width="120" height="60" as="geometry" />
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-1" value="Khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-2" value="Quản lý bán hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="157" y="867" width="120" height="36" as="geometry" />
@@ -2790,10 +2790,10 @@
           <mxGeometry x="-1060" y="1080" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-21" value="&lt;span&gt;Tiếp nhận yêu cầu&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;trả căn hộ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-860" y="1000" width="131" height="42" as="geometry" />
+          <mxGeometry x="-860" y="1000" width="121" height="42" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-22" value="&lt;span&gt;Cập&lt;br&gt;nhật thông tin căn hộ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-858" y="1524" width="120" height="36" as="geometry" />
+          <mxGeometry x="-858" y="1400" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-23" value="&lt;span&gt;Kiểm&lt;br&gt;tra công nợ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-860" y="1240" width="120" height="36" as="geometry" />
@@ -2872,7 +2872,7 @@
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-45" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="RkeHMzVyt21PPHbQ2xOW-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-890" y="1340" as="sourcePoint" />
+            <mxPoint x="-890" y="1420" as="sourcePoint" />
             <mxPoint x="-890" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2989,6 +2989,21 @@
             <mxPoint x="-430" y="1020" as="sourcePoint" />
             <mxPoint x="-400" y="1020" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-65" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-890" y="1420" as="sourcePoint" />
+            <mxPoint x="-860" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-67" value="&lt;span lang=&quot;VI&quot;&gt;Quản lý cho thuê&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span lang=&quot;VI&quot;&gt;căn hộ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;tại một khu chung cư&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="1899" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-68" value="Khách thuê" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-978" y="1787" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-69" value="Bộ phận Quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
