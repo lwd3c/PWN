@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="3801" dy="970" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3382" dy="731" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3343,19 +3343,29 @@
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-241" value="Báo cáo hợp đồng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="-630" y="2060" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RkeHMzVyt21PPHbQ2xOW-67" target="RkeHMzVyt21PPHbQ2xOW-68">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkeHMzVyt21PPHbQ2xOW-67" target="RkeHMzVyt21PPHbQ2xOW-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-405" y="2097" as="sourcePoint" />
             <mxPoint x="-940" y="1850" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-930" y="1980" />
-              <mxPoint x="-930" y="1850" />
-              <mxPoint x="-931" y="1850" />
+              <mxPoint x="-920" y="1980" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-243" value="Hóa đơn thanh toán" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-815" y="1960" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.345;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.374;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RkeHMzVyt21PPHbQ2xOW-67" target="RkeHMzVyt21PPHbQ2xOW-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-594" y="2120" as="sourcePoint" />
+            <mxPoint x="-960" y="1860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-940" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-245" value="Hóa đơn thu phí dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="1980" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
