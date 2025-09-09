@@ -3038,6 +3038,22 @@
             <mxPoint x="-549" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-84" value="Hợp đồng thuê căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-825" y="1910" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.024;exitY=0.643;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RkeHMzVyt21PPHbQ2xOW-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-660" y="1940" as="sourcePoint" />
+            <mxPoint x="-900" y="1840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-635" y="1960" />
+              <mxPoint x="-900" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-86" value="Biên bản thanh lý hợp đồng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-835" y="1960" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
