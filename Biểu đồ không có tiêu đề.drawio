@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="8528" dy="1824" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7611" dy="1495" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3502,15 +3502,15 @@
             <mxPoint x="-4470" y="5530" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-3739" y="4852" />
-              <mxPoint x="-3740" y="4852" />
-              <mxPoint x="-3740" y="5100" />
+              <mxPoint x="-3739" y="4852" />
+              <mxPoint x="-3739" y="5100" />
               <mxPoint x="-4200" y="5100" />
               <mxPoint x="-4200" y="5520" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-300" value="Xác nhận thanh toán" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-4140" y="5070" width="150" height="30" as="geometry" />
+          <mxGeometry x="-4040" y="5070" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.119;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-167" target="5VrvB4JkDVyFzI9Sy50J-348">
           <mxGeometry relative="1" as="geometry">
@@ -3673,7 +3673,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-4630" y="5470.04347826087" as="sourcePoint" />
             <mxPoint x="-4130" y="5450" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="-4280" y="5488" />
+              <mxPoint x="-4280" y="5290" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-326" value="Phiếu yêu cầu sửa chữa (MB06)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
@@ -3705,13 +3708,13 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-330" value="Biên bản nghiệm thu sửa chữa (MB07)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-4490" y="5540" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-331" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-169" target="5VrvB4JkDVyFzI9Sy50J-170">
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-331" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-169" target="5VrvB4JkDVyFzI9Sy50J-170">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3870.3999999999996" y="5449.8" as="sourcePoint" />
             <mxPoint x="-3710.2" y="4853.599999999999" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-3760" y="5300" />
-              <mxPoint x="-3660" y="5300" />
+              <mxPoint x="-3510" y="5300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3742,7 +3745,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-336" value="Yêu cầu báo cáo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-3530" y="4540" width="130" height="30" as="geometry" />
+          <mxGeometry x="-3310" y="4540" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-168" target="5VrvB4JkDVyFzI9Sy50J-170">
           <mxGeometry relative="1" as="geometry">
