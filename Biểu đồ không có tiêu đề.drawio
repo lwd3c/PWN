@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="5947" dy="1149" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5489" dy="927" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3145,14 +3145,13 @@
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-527" value="Yêu cầu thuê căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-2690" y="2250" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-528" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.878;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-52" target="5VrvB4JkDVyFzI9Sy50J-56" edge="1">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-528" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.875;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-52" target="5VrvB4JkDVyFzI9Sy50J-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2750" y="2450" as="sourcePoint" />
             <mxPoint x="-3140" y="2200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2232" y="2320" />
               <mxPoint x="-3150" y="2320" />
-              <mxPoint x="-3150" y="2200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3173,14 +3172,13 @@
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-531" value="Thông tin cá nhân, nhu cầu thuê" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-2740" y="2330" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-532" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.304;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-52" target="5VrvB4JkDVyFzI9Sy50J-56" edge="1">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-532" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.304;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.662;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-52" target="5VrvB4JkDVyFzI9Sy50J-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2780" y="2629.88" as="sourcePoint" />
             <mxPoint x="-3270" y="2310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2160" y="2400" />
-              <mxPoint x="-3260" y="2400" />
-              <mxPoint x="-3260" y="2200" />
+              <mxPoint x="-3218" y="2400" />
             </Array>
           </mxGeometry>
         </mxCell>
