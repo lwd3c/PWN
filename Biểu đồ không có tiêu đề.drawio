@@ -3465,8 +3465,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-294" value="Hợp đồng thuê căn hộ (MB02)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-4170" y="4640" width="210" height="30" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-294" value="Hợp đồng thuê căn hộ&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-4150" y="4640" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.275;exitY=0.054;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-170" target="5VrvB4JkDVyFzI9Sy50J-348">
           <mxGeometry relative="1" as="geometry">
@@ -3621,8 +3621,8 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-316" value="Biên bản thanh lý hợp đồng&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-5170" y="4540" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-317" value="Biên bản thanh lý hợp đồng (MB05)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-4190" y="4670" width="250" height="30" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-317" value="Biên bản thanh lý hợp đồng&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-4165" y="4670" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-318" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.989;exitY=0.397;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-168" target="5VrvB4JkDVyFzI9Sy50J-170">
           <mxGeometry relative="1" as="geometry">
@@ -3744,7 +3744,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-336" value="Yêu cầu báo cáo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-3310" y="4540" width="130" height="30" as="geometry" />
+          <mxGeometry x="-3330" y="4540" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-168" target="5VrvB4JkDVyFzI9Sy50J-170">
           <mxGeometry relative="1" as="geometry">
@@ -3768,8 +3768,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-340" value="Báo cáo doanh thu (MB09)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-3320" y="4630" width="190" height="30" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-340" value="Báo cáo doanh thu&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-3330" y="4630" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.947;exitY=0.735;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.054;entryY=0.729;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-168" target="5VrvB4JkDVyFzI9Sy50J-170">
           <mxGeometry relative="1" as="geometry">
@@ -3784,8 +3784,8 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-342" value="Tổng hợp danh sách hợp đồng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-4180" y="4750" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-343" value="Báo cáo hợp đồng (MB10)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-3320" y="4690" width="190" height="30" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-343" value="Báo cáo hợp đồng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-3340" y="4690" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="5VrvB4JkDVyFzI9Sy50J-347" source="5VrvB4JkDVyFzI9Sy50J-170">
           <mxGeometry relative="1" as="geometry">
