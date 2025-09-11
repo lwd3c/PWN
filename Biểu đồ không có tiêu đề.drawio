@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="8370" dy="2770" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7447" dy="1980" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4450,10 +4450,35 @@
           <mxGeometry x="4182" y="6984" width="214" height="31" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-686" value="&lt;font&gt;Bộ phận Quản lý (M2.1)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="2324" y="7252" width="320" height="160" as="geometry" />
+          <mxGeometry x="2366" y="7427" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-687" value="Biên bản thanh lý hợp đồng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="8036" y="7766" width="214" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-689" value="Yêu cầu báo cáo doanh thu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2829" y="7200" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-690" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.481;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-686" target="5VrvB4JkDVyFzI9Sy50J-560">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3151" y="7248" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2516" y="7428" />
+              <mxPoint x="2520" y="7427" />
+              <mxPoint x="2520" y="7422" />
+              <mxPoint x="2521" y="7422" />
+              <mxPoint x="2521" y="7232" />
+            </Array>
+            <mxPoint x="2523" y="7377" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-691" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-686" target="5VrvB4JkDVyFzI9Sy50J-587">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3170.89" y="7666" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2526" y="7716" />
+            </Array>
+            <mxPoint x="2505.89" y="7861" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
