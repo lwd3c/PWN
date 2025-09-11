@@ -3850,10 +3850,10 @@
           <mxGeometry x="-4390" y="4970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-366" value="Hóa đơn thanh toán" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3440" y="4910" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3360" y="4890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-367" value="Thông tin công nợ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3700" y="4970" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3890" y="4950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-368" value="Phiếu yêu cầu trả căn hộ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-4840" y="5780" width="120" height="60" as="geometry" />
@@ -3868,7 +3868,7 @@
           <mxGeometry x="-3600" y="5560" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-372" value="Biên bản nghiệm thu sửa chữa" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3830" y="5560" width="160" height="70" as="geometry" />
+          <mxGeometry x="-3750" y="5130" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-373" value="Hóa đơn thu phí dịch vụ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3440" y="5030" width="120" height="60" as="geometry" />
@@ -3954,10 +3954,22 @@
             <mxPoint x="-3588" y="5581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-391" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.717;exitY=0.967;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-169" target="5VrvB4JkDVyFzI9Sy50J-372">
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-393" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-170" target="5VrvB4JkDVyFzI9Sy50J-373">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3780" y="5590" as="sourcePoint" />
-            <mxPoint x="-3518" y="5781" as="targetPoint" />
+            <mxPoint x="-3400" y="4880" as="sourcePoint" />
+            <mxPoint x="-3294" y="5001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-394" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.914;exitY=0.779;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5VrvB4JkDVyFzI9Sy50J-372">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3780" y="5240" as="sourcePoint" />
+            <mxPoint x="-3674" y="5361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-395" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.637;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-372" target="5VrvB4JkDVyFzI9Sy50J-170">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3570" y="5170" as="sourcePoint" />
+            <mxPoint x="-3464" y="5291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
