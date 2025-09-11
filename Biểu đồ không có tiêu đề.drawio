@@ -3850,7 +3850,7 @@
           <mxGeometry x="-4408" y="4982" width="146" height="71" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-366" value="Hóa đơn thu phí" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-3780" y="4360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3813" y="4351" width="153" height="69" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-367" value="Thông tin công nợ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-3901" y="4966" width="138" height="76" as="geometry" />
@@ -3871,7 +3871,7 @@
           <mxGeometry x="-3728" y="5101" width="173" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-373" value="Hóa đơn thu phí dịch vụ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-3970" y="4360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4034" y="4344" width="149" height="76" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-374" value="Biên bản thanh lý hợp đồng" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-4064" y="4864" width="158" height="83" as="geometry" />
