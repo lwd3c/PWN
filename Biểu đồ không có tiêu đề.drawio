@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="5862" dy="1495" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5700" dy="1417" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3142,7 +3142,7 @@
           <mxGeometry x="-3390" y="2080" width="282" height="156" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-525" value="&lt;font&gt;Bộ phận Quản lý (M2.1)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1460" y="1630" width="280" height="160" as="geometry" />
+          <mxGeometry x="-1460" y="1920" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-526" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.884;exitY=0.829;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="RkeHMzVyt21PPHbQ2xOW-524" target="RkeHMzVyt21PPHbQ2xOW-517" edge="1">
           <mxGeometry relative="1" as="geometry">
