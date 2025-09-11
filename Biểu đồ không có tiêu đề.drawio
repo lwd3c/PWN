@@ -3387,9 +3387,9 @@
             <mxPoint x="-3000" y="2070" as="sourcePoint" />
             <mxPoint x="-2460" y="2030" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3573" y="2020" />
-              <mxPoint x="-3150" y="2020" />
-              <mxPoint x="-3150" y="2030" />
+              <mxPoint x="-3203" y="2000" />
+              <mxPoint x="-2980" y="2000" />
+              <mxPoint x="-2980" y="2030" />
               <mxPoint x="-2098" y="2030" />
             </Array>
           </mxGeometry>
