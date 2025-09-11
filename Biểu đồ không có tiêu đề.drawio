@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="7464" dy="1112" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8928" dy="1824" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3758,13 +3758,13 @@
             <mxPoint x="-3870.3999999999996" y="5449.8" as="sourcePoint" />
             <mxPoint x="-3710.2" y="4853.599999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3710" y="5455" />
-              <mxPoint x="-3710" y="4860" />
+              <mxPoint x="-3760" y="5300" />
+              <mxPoint x="-3660" y="5300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-332" value="Biên bản nghiệm thu sửa chữa (MB07)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-3740" y="5480" width="270" height="30" as="geometry" />
+          <mxGeometry x="-3770" y="5270" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-333" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.727;exitY=0.052;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-170" target="5VrvB4JkDVyFzI9Sy50J-348">
           <mxGeometry relative="1" as="geometry">
@@ -3788,7 +3788,7 @@
             <mxPoint x="-4430" y="4610" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-3080" y="4570" />
-              <mxPoint x="-4430" y="4570" />
+              <mxPoint x="-4440" y="4570" />
             </Array>
           </mxGeometry>
         </mxCell>
