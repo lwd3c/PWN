@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="7300" dy="1824" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5608" dy="993" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3243,12 +3243,12 @@
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-543" value="Đưa khách đi xem căn hộ, giới thiệu chi tiết tiện ích, dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-2810" y="1800" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-544" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.311;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.683;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-56" target="5VrvB4JkDVyFzI9Sy50J-52" edge="1">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-544" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.343;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.683;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-56" target="5VrvB4JkDVyFzI9Sy50J-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3020" y="2100" as="sourcePoint" />
             <mxPoint x="-2460" y="1870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3700" y="1870" />
+              <mxPoint x="-3320" y="1870" />
               <mxPoint x="-1987" y="1870" />
             </Array>
           </mxGeometry>
@@ -3262,7 +3262,7 @@
             <mxPoint x="-3270" y="2020" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2019" y="1910" />
-              <mxPoint x="-3660" y="1910" />
+              <mxPoint x="-3290" y="1910" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3274,7 +3274,7 @@
             <mxPoint x="-3110" y="2164" as="sourcePoint" />
             <mxPoint x="-2460" y="1950" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3630" y="1950" />
+              <mxPoint x="-3260" y="1950" />
               <mxPoint x="-2047" y="1950" />
             </Array>
           </mxGeometry>
@@ -3394,13 +3394,14 @@
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-571" value="Yêu cầu kiểm tra lại" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-2690" y="2000" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-572" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.797;exitY=0.101;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-52" target="5VrvB4JkDVyFzI9Sy50J-56" edge="1">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-572" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.797;exitY=0.101;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1935" y="1710" />
               <mxPoint x="-3680" y="1710" />
             </Array>
             <mxPoint x="-2060" y="1920" as="sourcePoint" />
+            <mxPoint x="-3300" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-573" value="Biên bản thanh lý hợp đồng (MB05)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
