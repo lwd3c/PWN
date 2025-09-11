@@ -3145,14 +3145,14 @@
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-527" value="Yêu cầu thuê căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-2690" y="2250" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-528" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-52" target="5VrvB4JkDVyFzI9Sy50J-56" edge="1">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-528" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.878;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-52" target="5VrvB4JkDVyFzI9Sy50J-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2750" y="2450" as="sourcePoint" />
-            <mxPoint x="-2764" y="2792" as="targetPoint" />
+            <mxPoint x="-3140" y="2200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2232" y="2320" />
-              <mxPoint x="-3180" y="2320" />
-              <mxPoint x="-3180" y="2180" />
+              <mxPoint x="-3150" y="2320" />
+              <mxPoint x="-3150" y="2200" />
             </Array>
           </mxGeometry>
         </mxCell>
