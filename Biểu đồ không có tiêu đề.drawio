@@ -2777,16 +2777,16 @@
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-16" value="&lt;span&gt;Tiếp nhận thông tin khách thuê&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1000" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-17" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập phiếu tiếp nhận khách thuê&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-17" value="Tiếp nhận yêu cầu&amp;nbsp;&lt;div&gt;trả căn hộ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1160" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-18" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập hóa đơn thanh toán&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1320" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-19" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập hợp&lt;br&gt;đồng thuê&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-19" value="Lập phiếu yêu cầu&amp;nbsp;&lt;div&gt;trả căn hộ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1240" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-20" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Kiểm tra giấy tờ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-20" value="Lập phiếu tiếp nhận khách thuê" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1080" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-21" value="&lt;span&gt;Tiếp nhận yêu cầu&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;trả căn hộ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
