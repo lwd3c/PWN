@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="6662" dy="1495" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5947" dy="1149" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3373,9 +3373,8 @@
             <mxPoint x="-2460" y="1990" as="sourcePoint" />
             <mxPoint x="-3160" y="2060" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2071" y="1990" />
-              <mxPoint x="-3600" y="1990" />
-              <mxPoint x="-3600" y="2038" />
+              <mxPoint x="-2070" y="1990" />
+              <mxPoint x="-3231" y="1990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3387,8 +3386,8 @@
             <mxPoint x="-3000" y="2070" as="sourcePoint" />
             <mxPoint x="-2460" y="2030" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3203" y="2000" />
-              <mxPoint x="-2980" y="2000" />
+              <mxPoint x="-3203" y="2010" />
+              <mxPoint x="-2980" y="2010" />
               <mxPoint x="-2980" y="2030" />
               <mxPoint x="-2098" y="2030" />
             </Array>
