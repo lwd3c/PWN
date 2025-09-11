@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="9265" dy="2180" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7974" dy="2431" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4435,33 +4435,8 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-640" value="Thông tin khách thuê" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1558" y="8477" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-645" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2693" y="8707" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2222" y="8327" />
-              <mxPoint x="2693" y="8327" />
-            </Array>
-            <mxPoint x="2221.9999999999472" y="8331.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-646" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2693" y="8857" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2693" y="9263" />
-            </Array>
-            <mxPoint x="2167.999999999982" y="9263.000000000002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-647" value="Phiếu tiếp nhận khách thuê" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2303" y="8297" width="210" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-648" value="Phiếu yêu cầu trả căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2213" y="8747" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-649" value="Phiếu yêu cầu sửa chữa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2283" y="9227" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-650" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2502" y="8709" width="390" height="150" as="geometry" />
@@ -4474,9 +4449,6 @@
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-653" value="Quản lý dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" vertex="1" parent="5VrvB4JkDVyFzI9Sy50J-652">
           <mxGeometry x="102" y="54" width="197" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-654" value="&lt;font&gt;Khách thuê (M1.1)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="402" y="9148" width="406" height="169" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-656" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="488" y="6943" width="390" height="150" as="geometry" />
