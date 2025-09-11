@@ -4138,7 +4138,7 @@
           <mxGeometry x="-470" y="6720" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-547" value="Thông tin hỏng hóc căn hộ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10" y="7200" width="210" height="100" as="geometry" />
+          <mxGeometry x="20" y="7200" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
