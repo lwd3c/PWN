@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="4435" dy="1111" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4582" dy="1236" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2780,7 +2780,7 @@
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-17" value="Tiếp nhận yêu cầu&amp;nbsp;&lt;div&gt;trả căn hộ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1160" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="RkeHMzVyt21PPHbQ2xOW-18" value="&lt;span style=&quot;line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Lập hóa đơn thanh toán&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="RkeHMzVyt21PPHbQ2xOW-18" value="Tiếp nhận yêu cầu&amp;nbsp;&lt;div&gt;sửa chữa&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1320" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-19" value="Lập phiếu yêu cầu&amp;nbsp;&lt;div&gt;trả căn hộ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
@@ -2866,7 +2866,7 @@
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-44" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" target="RkeHMzVyt21PPHbQ2xOW-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1090" y="1340" as="sourcePoint" />
+            <mxPoint x="-1090" y="1416" as="sourcePoint" />
             <mxPoint x="-1160" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -3773,6 +3773,15 @@
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-619" value="Kiểm tra tình trạng căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-760" y="1680" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-1" value="Lập phiếu yêu cầu&amp;nbsp;&lt;div&gt;sửa chữa&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="1397" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1090" y="1416" as="sourcePoint" />
+            <mxPoint x="-1060" y="1416" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
