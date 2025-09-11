@@ -4367,8 +4367,8 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-605" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="4395" y="7147" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-606" value="Quản lý kinh doanh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" vertex="1" parent="5VrvB4JkDVyFzI9Sy50J-605">
-          <mxGeometry x="75" y="55" width="250" height="40" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-606" value="Quản lý tài chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" vertex="1" parent="5VrvB4JkDVyFzI9Sy50J-605">
+          <mxGeometry x="94" y="54" width="213" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
