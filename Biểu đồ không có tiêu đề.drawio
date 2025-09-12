@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="7685" dy="1557" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8542" dy="1788" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4179,9 +4179,6 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-670" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-562" target="5VrvB4JkDVyFzI9Sy50J-668" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-671" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-562" target="5VrvB4JkDVyFzI9Sy50J-581" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-562" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:&amp;lt;br/&amp;gt;11.0pt;line-height:106%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:VI;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;VI&quot;&gt;Lập hợp đồng thuê căn hộ&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="3450" y="6693" width="347" height="173" as="geometry" />
         </mxCell>
@@ -4708,6 +4705,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-236" y="6377" as="sourcePoint" />
             <mxPoint x="-111" y="6457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gBX4OozYHuilfZ0fTtWs-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;startSize=8;endSize=8;curved=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-562" target="5VrvB4JkDVyFzI9Sy50J-581">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3310" y="7096" as="sourcePoint" />
+            <mxPoint x="3857" y="6676" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
