@@ -4698,6 +4698,18 @@
         <mxCell id="WFHhwEiB9OxVdQLTaiF8-57" value="Thông báo kết quả" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-463" y="8824" width="151" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="WFHhwEiB9OxVdQLTaiF8-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WFHhwEiB9OxVdQLTaiF8-29" target="WFHhwEiB9OxVdQLTaiF8-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1192" y="8918" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1206" y="8948" />
+            </Array>
+            <mxPoint x="-1910" y="9082" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFHhwEiB9OxVdQLTaiF8-60" value="Biên bản thanh lý hợp đồng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1817" y="8913" width="202" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
