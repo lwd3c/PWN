@@ -4710,6 +4710,9 @@
         <mxCell id="gBX4OozYHuilfZ0fTtWs-6" value="Yêu cầu trả căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-354" y="6512" width="119" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="gBX4OozYHuilfZ0fTtWs-7" value="Yêu cầu sửa chữa căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-334" y="6996" width="156" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
