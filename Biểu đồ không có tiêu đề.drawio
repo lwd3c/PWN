@@ -4698,17 +4698,17 @@
             <mxPoint x="101" y="6046" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gBX4OozYHuilfZ0fTtWs-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.228;entryY=0.096;entryDx=0;entryDy=0;fontSize=15;startSize=8;endSize=8;entryPerimeter=0;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-541" target="5VrvB4JkDVyFzI9Sy50J-403">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-179" y="6425" as="sourcePoint" />
-            <mxPoint x="87" y="6353" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gBX4OozYHuilfZ0fTtWs-6" value="Yêu cầu trả căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-354" y="6512" width="119" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gBX4OozYHuilfZ0fTtWs-7" value="Yêu cầu sửa chữa căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-334" y="6996" width="156" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gBX4OozYHuilfZ0fTtWs-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=15;startSize=8;endSize=8;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-541" target="5VrvB4JkDVyFzI9Sy50J-401">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-243" y="6359" as="sourcePoint" />
+            <mxPoint x="-324" y="6493" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
