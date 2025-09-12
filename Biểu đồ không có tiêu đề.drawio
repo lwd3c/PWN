@@ -4710,12 +4710,6 @@
             <mxPoint x="-111" y="6457" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gBX4OozYHuilfZ0fTtWs-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;startSize=8;endSize=8;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-402" target="5VrvB4JkDVyFzI9Sy50J-404">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-197" y="6289" as="sourcePoint" />
-            <mxPoint x="69" y="6217" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
