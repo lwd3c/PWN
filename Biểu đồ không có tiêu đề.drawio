@@ -4518,7 +4518,7 @@
             <mxPoint x="1537" y="8744" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WFHhwEiB9OxVdQLTaiF8-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WFHhwEiB9OxVdQLTaiF8-2" target="WFHhwEiB9OxVdQLTaiF8-6">
+        <mxCell id="WFHhwEiB9OxVdQLTaiF8-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WFHhwEiB9OxVdQLTaiF8-2" target="WFHhwEiB9OxVdQLTaiF8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WFHhwEiB9OxVdQLTaiF8-2" value="&lt;span style=&quot;font-size: 14pt; line-height: 106%;&quot; lang=&quot;VI&quot;&gt;Kiểm tra các khoản công nợ&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
@@ -4696,6 +4696,12 @@
         </mxCell>
         <mxCell id="WFHhwEiB9OxVdQLTaiF8-60" value="Biên bản thanh lý hợp đồng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-1817" y="8913" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WFHhwEiB9OxVdQLTaiF8-62" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WFHhwEiB9OxVdQLTaiF8-61" target="WFHhwEiB9OxVdQLTaiF8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WFHhwEiB9OxVdQLTaiF8-61" value="Thông tin công nợ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1525" y="9281" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
