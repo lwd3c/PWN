@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="7354" dy="1216" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7169" dy="1293" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2433,10 +2433,10 @@
           <mxGeometry x="-921" y="859" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-25" value="02.05. Tiếp nhận yêu cầu báo cáo hợp đồng" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-921" y="1099" width="120" height="36" as="geometry" />
+          <mxGeometry x="-921" y="1099" width="124" height="37" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-26" value="02.03. Tiếp nhận yêu cầu báo cáo doanh thu" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-921" y="939" width="120" height="36" as="geometry" />
+          <mxGeometry x="-921" y="939" width="127" height="39" as="geometry" />
         </mxCell>
         <mxCell id="RkeHMzVyt21PPHbQ2xOW-27" value="03.01. Lấy thông tin căn hộ và thiết bị" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-681" y="779" width="120" height="36" as="geometry" />
