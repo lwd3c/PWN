@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="10503" dy="2773" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8542" dy="1824" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4294,14 +4294,14 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-605" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="4397" y="7249" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-606" value="Quản lý tài chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-605" vertex="1">
-          <mxGeometry x="94" y="54" width="213" height="43" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-606" value="04. Quản lý tài chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-605" vertex="1">
+          <mxGeometry x="73" y="54" width="256" height="43" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-607" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2294" y="6873" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-608" value="Quản lý dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-607" vertex="1">
-          <mxGeometry x="102" y="54" width="197" height="43" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-608" value="01. Quản lý dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-607" vertex="1">
+          <mxGeometry x="80" y="54" width="241" height="43" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-663" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-609" target="5VrvB4JkDVyFzI9Sy50J-662" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4372,14 +4372,14 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-650" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2502" y="8709" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-651" value="Quản lý tài chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-650" vertex="1">
-          <mxGeometry x="94" y="54" width="213" height="43" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-651" value="04. Quản lý tài chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-650" vertex="1">
+          <mxGeometry x="73" y="54" width="256" height="43" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-652" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="507" y="8731" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-653" value="Quản lý dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-652" vertex="1">
-          <mxGeometry x="102" y="54" width="197" height="43" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-653" value="01. Quản lý dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-652" vertex="1">
+          <mxGeometry x="80" y="54" width="241" height="43" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-656" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="488" y="6943" width="390" height="150" as="geometry" />
