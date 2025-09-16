@@ -3847,7 +3847,7 @@
           <mxGeometry x="-4231" y="4931" width="149" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-365" value="Thông tin căn hộ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-4408" y="4982" width="146" height="71" as="geometry" />
+          <mxGeometry x="-4395" y="5006" width="146" height="71" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-366" value="Hóa đơn thu phí" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-3813" y="4351" width="153" height="69" as="geometry" />
@@ -4767,8 +4767,11 @@
         <mxCell id="ZVE780RkqYiH29CT0aVS-3" value="Thông tin khách thuê" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-4449" y="4354" width="138" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="ZVE780RkqYiH29CT0aVS-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.616;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZVE780RkqYiH29CT0aVS-3" target="5VrvB4JkDVyFzI9Sy50J-168">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZVE780RkqYiH29CT0aVS-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVE780RkqYiH29CT0aVS-3" target="5VrvB4JkDVyFzI9Sy50J-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4429" y="4467" as="sourcePoint" />
+            <mxPoint x="-4359" y="4609" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
