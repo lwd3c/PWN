@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="8542" dy="1824" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7270" dy="1822" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4303,7 +4303,19 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-608" value="01. Quản lý dịch vụ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-607" vertex="1">
           <mxGeometry x="80" y="54" width="241" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-663" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-609" target="5VrvB4JkDVyFzI9Sy50J-662" edge="1">
+        <mxCell id="ZVE780RkqYiH29CT0aVS-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-609" target="5VrvB4JkDVyFzI9Sy50J-659">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-609" target="ZVE780RkqYiH29CT0aVS-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-609" target="5VrvB4JkDVyFzI9Sy50J-660">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-609" target="5VrvB4JkDVyFzI9Sy50J-614">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-609" target="ZVE780RkqYiH29CT0aVS-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-609" value="&lt;strong&gt;&lt;span style=&quot;line-height: 106%; font-weight: normal;&quot; lang=&quot;VI&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Lấy thông tin căn hộ và thiết bị&lt;/font&gt;&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -4314,7 +4326,7 @@
             <mxPoint x="2498" y="8782" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-665" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-614" target="5VrvB4JkDVyFzI9Sy50J-627" edge="1">
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-665" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-614" target="5VrvB4JkDVyFzI9Sy50J-627" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-614" value="&lt;span style=&quot;line-height: 106%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;VI&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Lập biên bản nghiệm thu sửa chữa&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -4348,7 +4360,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-627" value="Biên bản nghiệm thu sửa chữa" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1858" y="8469" width="190" height="90" as="geometry" />
+          <mxGeometry x="2056" y="8490" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-636" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0.018;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-652" target="5VrvB4JkDVyFzI9Sy50J-609" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4359,11 +4371,6 @@
               <mxPoint x="788" y="8797" />
             </Array>
             <mxPoint x="788" y="8787" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-638" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-659" target="5VrvB4JkDVyFzI9Sy50J-609" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1643" y="8567" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-648" value="Phiếu yêu cầu trả căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
@@ -4387,20 +4394,20 @@
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-657" value="03. Quản lý kỹ thuật" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="5VrvB4JkDVyFzI9Sy50J-656" vertex="1">
           <mxGeometry x="76" y="54" width="249" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-659" value="Thông tin căn hộ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1474" y="8475" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-666" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-660" target="5VrvB4JkDVyFzI9Sy50J-609" edge="1">
+        <mxCell id="ZVE780RkqYiH29CT0aVS-64" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-659" target="5VrvB4JkDVyFzI9Sy50J-614">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-660" value="Thông tin hỏng hóc của&amp;nbsp;&lt;div&gt;căn hộ&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1369" y="9042" width="190" height="90" as="geometry" />
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-659" value="Thông tin căn hộ" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1582" y="8485" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-664" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-662" target="5VrvB4JkDVyFzI9Sy50J-614" edge="1">
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-660" value="Thông tin hỏng hóc của&amp;nbsp;&lt;div&gt;căn hộ&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1322" y="9020" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-662" target="5VrvB4JkDVyFzI9Sy50J-614">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-662" value="Thông tin sửa chữa của&amp;nbsp;&lt;div&gt;căn hộ&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1738" y="9041" width="190" height="90" as="geometry" />
+          <mxGeometry x="1996" y="9040" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-675" value="Phiếu yêu cầu trả căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2797" y="6914" width="184" height="30" as="geometry" />
@@ -4505,12 +4512,6 @@
         </mxCell>
         <mxCell id="gBX4OozYHuilfZ0fTtWs-18" value="Yêu cầu báo cáo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="3572" y="7671" width="123" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="gBX4OozYHuilfZ0fTtWs-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-659" target="5VrvB4JkDVyFzI9Sy50J-614" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1643" y="8618" as="sourcePoint" />
-            <mxPoint x="1537" y="8744" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WFHhwEiB9OxVdQLTaiF8-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="WFHhwEiB9OxVdQLTaiF8-2" target="WFHhwEiB9OxVdQLTaiF8-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4883,6 +4884,24 @@
         </mxCell>
         <mxCell id="ZVE780RkqYiH29CT0aVS-53" value="Biên bản thanh lý hợp đồnh" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="3351" y="7887" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-56" value="Thông tin khách thuê" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="8486" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-62" value="Thông tin sửa chữa của&amp;nbsp;&lt;div&gt;căn hộ&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="9026" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-65" value="Thông tin khách thuê" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="9033" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.391;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZVE780RkqYiH29CT0aVS-65" target="5VrvB4JkDVyFzI9Sy50J-614">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-68" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZVE780RkqYiH29CT0aVS-67" target="5VrvB4JkDVyFzI9Sy50J-614">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVE780RkqYiH29CT0aVS-67" value="Thông tin hỏng hóc của&amp;nbsp;&lt;div&gt;căn hộ&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1824" y="8474" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
