@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="7456" dy="1980" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6885" dy="1494" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3998,20 +3998,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-406" value="Yêu cầu thuê căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-1157" y="5932" width="160" height="30" as="geometry" />
+          <mxGeometry x="-1098" y="5931" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-407" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.067;exitY=0.249;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.647;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5VrvB4JkDVyFzI9Sy50J-402" target="5VrvB4JkDVyFzI9Sy50J-484" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-870" y="6888" as="sourcePoint" />
             <mxPoint x="-1520" y="6040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-647" y="6000" />
-              <mxPoint x="-1323" y="6000" />
+              <mxPoint x="-647" y="6067" />
+              <mxPoint x="-1323" y="6067" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-408" value="Tiếp đón, giới thiệu căn hộ và các dịch vụ liên quan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="5970" width="360" height="30" as="geometry" />
+          <mxGeometry x="-1216" y="6034" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-440" value="Yêu cầu trả căn hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-1133" y="6530" width="150" height="30" as="geometry" />
