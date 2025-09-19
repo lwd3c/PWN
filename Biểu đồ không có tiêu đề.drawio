@@ -5757,8 +5757,8 @@
         <mxCell id="UxjGKJV94RwsPyHYb7oY-298" value="Quyết định phê duyệt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-10433" y="7252" width="170" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="UxjGKJV94RwsPyHYb7oY-301" value="Báo cáo sự cố" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-10431" y="7394" width="121" height="31" as="geometry" />
+        <mxCell id="UxjGKJV94RwsPyHYb7oY-301" value="Báo cáo vi phạm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-10439" y="7394" width="137" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxjGKJV94RwsPyHYb7oY-331">
           <mxGeometry relative="1" as="geometry">
