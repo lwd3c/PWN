@@ -5522,8 +5522,8 @@
         <mxCell id="UxjGKJV94RwsPyHYb7oY-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxjGKJV94RwsPyHYb7oY-271" target="UxjGKJV94RwsPyHYb7oY-230">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-14530" y="7629" />
-              <mxPoint x="-13323" y="7629" />
+              <mxPoint x="-14530" y="7607" />
+              <mxPoint x="-13323" y="7607" />
             </Array>
             <mxPoint x="-14302.886999999999" y="7460.48" as="sourcePoint" />
           </mxGeometry>
@@ -5618,7 +5618,7 @@
           <mxGeometry x="-13829" y="7127" width="166" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-246" value="Cập nhật tên miền" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-13792" y="7593" width="149" height="31" as="geometry" />
+          <mxGeometry x="-13792" y="7573" width="149" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-248" value="Hồ sơ thẩm định" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-13800" y="7330" width="136" height="31" as="geometry" />
@@ -5660,7 +5660,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-260" value="Giấy phép trang thông tin điện tử" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-13895" y="7762" width="186" height="82" as="geometry" />
+          <mxGeometry x="-13928" y="7773" width="186" height="82" as="geometry" />
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-261" value="Thông tin vi phạm" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-14730" y="7796" width="186" height="82" as="geometry" />
