@@ -5442,12 +5442,6 @@
         <mxCell id="UxjGKJV94RwsPyHYb7oY-204" value="Đơn xin cấp phép" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-14268" y="5760" width="186" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="UxjGKJV94RwsPyHYb7oY-205" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;startSize=8;endSize=8;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxjGKJV94RwsPyHYb7oY-193" target="UxjGKJV94RwsPyHYb7oY-204">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-14876" y="5367" as="sourcePoint" />
-            <mxPoint x="-14953" y="5151" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-206" value="Thông tin mạng xã hội" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-14754" y="5022" width="186" height="82" as="geometry" />
         </mxCell>
@@ -5500,6 +5494,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-14309" y="5147" as="sourcePoint" />
             <mxPoint x="-14347" y="5331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxjGKJV94RwsPyHYb7oY-220" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxjGKJV94RwsPyHYb7oY-204" target="UxjGKJV94RwsPyHYb7oY-193">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-13834" y="5867" as="sourcePoint" />
+            <mxPoint x="-14305" y="6143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
