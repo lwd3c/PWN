@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="17193" dy="1390" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="17392" dy="1555" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5344,8 +5344,8 @@
             <mxPoint x="-14547.847" y="5356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UxjGKJV94RwsPyHYb7oY-183" value="Phê duyệt hồ sơ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-14251" y="5245" width="135" height="31" as="geometry" />
+        <mxCell id="UxjGKJV94RwsPyHYb7oY-183" value="Phê duyệt đơn đăng ký" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-14275" y="5245" width="183" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.339;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UxjGKJV94RwsPyHYb7oY-194" target="UxjGKJV94RwsPyHYb7oY-174">
           <mxGeometry relative="1" as="geometry">
