@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="19420" dy="1788" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="18012" dy="1216" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5307,7 +5307,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-14478.383" y="5387.72" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-13916" y="5388" />
+              <mxPoint x="-13916" y="5353" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5360,7 +5360,7 @@
           <mxGeometry x="-14257" y="5585" width="132" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-186" value="Báo cáo sự cố" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-14260" y="5499" width="121" height="31" as="geometry" />
+          <mxGeometry x="-14267" y="5438" width="121" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxjGKJV94RwsPyHYb7oY-194" target="UxjGKJV94RwsPyHYb7oY-172">
           <mxGeometry relative="1" as="geometry">
@@ -5398,7 +5398,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-192" value="Hồ sơ thẩm định" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-14268" y="5421" width="136" height="31" as="geometry" />
+          <mxGeometry x="-14274" y="5382" width="136" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UxjGKJV94RwsPyHYb7oY-193" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Đăng ký sử dụng dịch vụ Internet&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-14768" y="5721" width="412" height="210" as="geometry" />
