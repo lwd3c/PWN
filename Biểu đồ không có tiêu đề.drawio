@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="17856" dy="1940" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="17285" dy="1466" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5482,6 +5482,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-14950" y="5418" as="sourcePoint" />
             <mxPoint x="-15053" y="5789" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxjGKJV94RwsPyHYb7oY-216" value="Yêu cầu gỡ bỏ vi phạm" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-14449" y="5015" width="186" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="UxjGKJV94RwsPyHYb7oY-217" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;startSize=8;endSize=8;curved=1;exitX=0.748;exitY=0.083;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="UxjGKJV94RwsPyHYb7oY-194" target="UxjGKJV94RwsPyHYb7oY-216">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-14687" y="5357" as="sourcePoint" />
+            <mxPoint x="-14603" y="5139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
