@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="20340" dy="1390" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="20139" dy="1215" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5881,7 +5881,7 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WEVGvki_OauN3hkadesH-10" value="CanBo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-18348" y="7206" width="140" height="150" as="geometry" />
+          <mxGeometry x="-18360" y="7120" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WEVGvki_OauN3hkadesH-11" value="MaCB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WEVGvki_OauN3hkadesH-10">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -6025,6 +6025,25 @@
             <mxPoint x="-18630" y="7640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-18604" y="7630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEVGvki_OauN3hkadesH-51" value="Quản lý" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-18490" y="6970" width="71" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="WEVGvki_OauN3hkadesH-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WEVGvki_OauN3hkadesH-7" target="WEVGvki_OauN3hkadesH-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-18740" y="7090" as="sourcePoint" />
+            <mxPoint x="-18739" y="7150" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEVGvki_OauN3hkadesH-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WEVGvki_OauN3hkadesH-51" target="WEVGvki_OauN3hkadesH-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-18530" y="6990" as="sourcePoint" />
+            <mxPoint x="-18360" y="6991" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-18290" y="6996" />
             </Array>
           </mxGeometry>
         </mxCell>
