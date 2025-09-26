@@ -1320,7 +1320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pb3Zh7YwqWF0vtl7zJI9-46" value="MB10" style="shape=tape;whiteSpace=wrap;html=1;" parent="v9JPyBt3_6Yt727T14DT-323" vertex="1">
-          <mxGeometry x="199" y="709" width="86" height="70" as="geometry" />
+          <mxGeometry x="193" y="685" width="86" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-328" value="Bộ phận Kế toán (BP04)" style="swimlane;whiteSpace=wrap;html=1;startSize=50;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2687" y="4126" width="405" height="841" as="geometry" />
@@ -1384,7 +1384,7 @@
           <mxGeometry x="239" y="80" width="121" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pb3Zh7YwqWF0vtl7zJI9-45" value="MB10" style="shape=tape;whiteSpace=wrap;html=1;" parent="v9JPyBt3_6Yt727T14DT-328" vertex="1">
-          <mxGeometry x="86" y="596" width="86" height="70" as="geometry" />
+          <mxGeometry x="100" y="596" width="86" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="v9JPyBt3_6Yt727T14DT-318" target="v9JPyBt3_6Yt727T14DT-324" edge="1">
           <mxGeometry relative="1" as="geometry" />
