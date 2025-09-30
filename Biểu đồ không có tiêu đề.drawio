@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="20752" dy="1555" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="21528" dy="2133" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6998,12 +6998,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX8gq4ar9dwItokMpfp-37" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6DX8gq4ar9dwItokMpfp-35" target="-RyEWjSAcn5hVpQY6snv-99">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="4728" y="9923" as="sourcePoint" />
-            <mxPoint x="4860" y="9660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6DX8gq4ar9dwItokMpfp-39" value="Thuộc" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="5749" y="9270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -7036,10 +7030,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX8gq4ar9dwItokMpfp-44" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6DX8gq4ar9dwItokMpfp-42" target="-RyEWjSAcn5hVpQY6snv-131">
+        <mxCell id="6DX8gq4ar9dwItokMpfp-45" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6DX8gq4ar9dwItokMpfp-42" target="-RyEWjSAcn5hVpQY6snv-131">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="5793" y="9459" as="sourcePoint" />
-            <mxPoint x="5694" y="9178" as="targetPoint" />
+            <mxPoint x="6050" y="9565" as="sourcePoint" />
+            <mxPoint x="5871" y="9639" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5629" y="9796" />
+              <mxPoint x="5611" y="9805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DX8gq4ar9dwItokMpfp-46" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6DX8gq4ar9dwItokMpfp-35" target="-RyEWjSAcn5hVpQY6snv-93">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="4836" y="9601" as="sourcePoint" />
+            <mxPoint x="5121" y="9642" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4879" y="9799" />
+              <mxPoint x="4861" y="9808" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
