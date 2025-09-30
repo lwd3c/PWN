@@ -6876,7 +6876,7 @@
         <mxCell id="-RyEWjSAcn5hVpQY6snv-137" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;VI&quot;&gt;Hình thức thanh toán&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="-RyEWjSAcn5hVpQY6snv-122" vertex="1">
           <mxGeometry y="480" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6DX8gq4ar9dwItokMpfp-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RyEWjSAcn5hVpQY6snv-17" target="-RyEWjSAcn5hVpQY6snv-27">
+        <mxCell id="6DX8gq4ar9dwItokMpfp-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RyEWjSAcn5hVpQY6snv-17" target="-RyEWjSAcn5hVpQY6snv-26">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="5164" y="8693" as="sourcePoint" />
             <mxPoint x="5264" y="8593" as="targetPoint" />
