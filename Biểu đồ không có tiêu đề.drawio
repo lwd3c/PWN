@@ -7034,16 +7034,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX8gq4ar9dwItokMpfp-46" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6DX8gq4ar9dwItokMpfp-35" target="-RyEWjSAcn5hVpQY6snv-93">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="4836" y="9601" as="sourcePoint" />
-            <mxPoint x="5121" y="9642" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="4879" y="9799" />
-              <mxPoint x="4861" y="9808" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6DX8gq4ar9dwItokMpfp-47" value="Thuộc" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="5721" y="8622" width="120" height="60" as="geometry" />
         </mxCell>
@@ -7090,6 +7080,12 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="4984" y="8268" as="sourcePoint" />
             <mxPoint x="4912" y="8429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DX8gq4ar9dwItokMpfp-54" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6DX8gq4ar9dwItokMpfp-35" target="-RyEWjSAcn5hVpQY6snv-93">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="4923" y="9564" as="sourcePoint" />
+            <mxPoint x="4851" y="9725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
