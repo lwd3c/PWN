@@ -7480,7 +7480,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dLbM9tFAqhLHCOvDO9mg-137" value="Có" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5415" y="11531" width="120" height="60" as="geometry" />
+          <mxGeometry x="5398" y="11469" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dLbM9tFAqhLHCOvDO9mg-139" value="Thuộc" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="4620" y="10736" width="120" height="60" as="geometry" />
