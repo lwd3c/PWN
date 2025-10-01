@@ -7488,17 +7488,6 @@
         <mxCell id="dLbM9tFAqhLHCOvDO9mg-126" value="Có" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="3841" y="11008" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dLbM9tFAqhLHCOvDO9mg-127" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLbM9tFAqhLHCOvDO9mg-126" target="dLbM9tFAqhLHCOvDO9mg-31">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="3591" y="10918" as="sourcePoint" />
-            <mxPoint x="3669" y="10883" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3563" y="10835" />
-              <mxPoint x="3488" y="10832" />
-              <mxPoint x="3503" y="10948" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dLbM9tFAqhLHCOvDO9mg-128" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLbM9tFAqhLHCOvDO9mg-126" target="dLbM9tFAqhLHCOvDO9mg-47">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="3638" y="11014" as="sourcePoint" />
@@ -7628,6 +7617,12 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="3847" y="10580" as="sourcePoint" />
             <mxPoint x="3953" y="10785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLbM9tFAqhLHCOvDO9mg-149" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLbM9tFAqhLHCOvDO9mg-126" target="dLbM9tFAqhLHCOvDO9mg-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="3995" y="11028" as="sourcePoint" />
+            <mxPoint x="4101" y="11233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
