@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="22900" dy="2127" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="21762" dy="1595" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7606,12 +7606,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dLbM9tFAqhLHCOvDO9mg-144" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLbM9tFAqhLHCOvDO9mg-115" target="dLbM9tFAqhLHCOvDO9mg-7">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="4038" y="10316" as="sourcePoint" />
-            <mxPoint x="3966" y="10477" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dLbM9tFAqhLHCOvDO9mg-145" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLbM9tFAqhLHCOvDO9mg-132" target="dLbM9tFAqhLHCOvDO9mg-78">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="3977" y="11612" as="sourcePoint" />
@@ -7628,6 +7622,12 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="5063" y="11484" as="sourcePoint" />
             <mxPoint x="4991" y="11645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLbM9tFAqhLHCOvDO9mg-148" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLbM9tFAqhLHCOvDO9mg-115" target="dLbM9tFAqhLHCOvDO9mg-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="3847" y="10580" as="sourcePoint" />
+            <mxPoint x="3953" y="10785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
