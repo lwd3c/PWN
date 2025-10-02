@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="21834" dy="2669" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="22490" dy="2328" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7172,7 +7172,7 @@
         <mxCell id="dLbM9tFAqhLHCOvDO9mg-29" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;VI&quot;&gt;Số căn hộ&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=18;" parent="dLbM9tFAqhLHCOvDO9mg-26" vertex="1">
           <mxGeometry y="119" width="179" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dLbM9tFAqhLHCOvDO9mg-30" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;Dự án&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=18;" parent="dLbM9tFAqhLHCOvDO9mg-26" vertex="1">
+        <mxCell id="dLbM9tFAqhLHCOvDO9mg-30" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;Tòa nhà&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=18;" parent="dLbM9tFAqhLHCOvDO9mg-26" vertex="1">
           <mxGeometry y="149" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dLbM9tFAqhLHCOvDO9mg-31" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;Địa chỉ&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=18;" parent="dLbM9tFAqhLHCOvDO9mg-26" vertex="1">
@@ -8021,7 +8021,7 @@
         <mxCell id="d5U_I4C5tERghzPNX9rR-30" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;VI&quot;&gt;Số căn hộ&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="d5U_I4C5tERghzPNX9rR-27">
           <mxGeometry y="119" width="318" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d5U_I4C5tERghzPNX9rR-31" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;Dự án&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="d5U_I4C5tERghzPNX9rR-27">
+        <mxCell id="d5U_I4C5tERghzPNX9rR-31" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;Tòa nhà&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="d5U_I4C5tERghzPNX9rR-27">
           <mxGeometry y="149" width="318" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d5U_I4C5tERghzPNX9rR-32" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;Địa chỉ&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="d5U_I4C5tERghzPNX9rR-27">
@@ -8486,7 +8486,7 @@
         <mxCell id="d5U_I4C5tERghzPNX9rR-197" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;VI&quot;&gt;Số căn hộ&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="d5U_I4C5tERghzPNX9rR-194">
           <mxGeometry y="119" width="318" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d5U_I4C5tERghzPNX9rR-198" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;Dự án&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="d5U_I4C5tERghzPNX9rR-194">
+        <mxCell id="d5U_I4C5tERghzPNX9rR-198" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;Tòa nhà&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="d5U_I4C5tERghzPNX9rR-194">
           <mxGeometry y="149" width="318" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d5U_I4C5tERghzPNX9rR-199" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;Địa chỉ&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="d5U_I4C5tERghzPNX9rR-194">
