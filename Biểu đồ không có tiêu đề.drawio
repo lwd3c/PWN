@@ -1248,16 +1248,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SrW00vpb6C_XVTDE4ljj-6" value="Thông tin&lt;div&gt;khách thuê&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;labelBackgroundColor=none;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-231">
-          <mxGeometry x="5" y="638" width="121" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SrW00vpb6C_XVTDE4ljj-7" value="" style="html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="v9JPyBt3_6Yt727T14DT-231" source="SrW00vpb6C_XVTDE4ljj-6" target="v9JPyBt3_6Yt727T14DT-260">
-          <mxGeometry width="60" height="60" relative="1" as="geometry">
-            <mxPoint x="280" y="686" as="sourcePoint" />
-            <mxPoint x="236" y="638" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v9JPyBt3_6Yt727T14DT-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="v9JPyBt3_6Yt727T14DT-208" target="v9JPyBt3_6Yt727T14DT-224" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1413,16 +1403,6 @@
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="302" y="623" as="sourcePoint" />
             <mxPoint x="238" y="641" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SrW00vpb6C_XVTDE4ljj-5" value="Thông tin&lt;div&gt;khách thuê&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;labelBackgroundColor=none;" vertex="1" parent="v9JPyBt3_6Yt727T14DT-328">
-          <mxGeometry x="6" y="593" width="121" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SrW00vpb6C_XVTDE4ljj-8" value="" style="html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=12;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="v9JPyBt3_6Yt727T14DT-328" source="SrW00vpb6C_XVTDE4ljj-5" target="v9JPyBt3_6Yt727T14DT-330">
-          <mxGeometry width="60" height="60" relative="1" as="geometry">
-            <mxPoint x="152" y="672" as="sourcePoint" />
-            <mxPoint x="108" y="624" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
