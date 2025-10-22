@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="23360" dy="2383" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="24192" dy="2780" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9811,6 +9811,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RcDNbR7dmBFHhFKF6sWh-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RcDNbR7dmBFHhFKF6sWh-7" target="RcDNbR7dmBFHhFKF6sWh-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-7" value="&lt;span style=&quot;font-size: 14pt; line-height: 105%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;12. Nhận thông tin khách hàng qua mã khách hàng&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="13657" y="4396" width="134" height="134" as="geometry" />
         </mxCell>
@@ -9895,47 +9898,53 @@
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-22" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;27. Mở&lt;br&gt;form biên bản thanh lý hợp đồng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="12748" y="5622" width="134" height="134" as="geometry" />
         </mxCell>
+        <mxCell id="RcDNbR7dmBFHhFKF6sWh-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RcDNbR7dmBFHhFKF6sWh-23" target="RcDNbR7dmBFHhFKF6sWh-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-23" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;28. Nhận&lt;br&gt;thông tin hợp đồng cần thanh lý qua số hợp đồng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="13590" y="5616" width="134" height="134" as="geometry" />
+          <mxGeometry x="13706" y="5612" width="134" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="RcDNbR7dmBFHhFKF6sWh-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RcDNbR7dmBFHhFKF6sWh-25" target="RcDNbR7dmBFHhFKF6sWh-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-25" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;29. Kiểm&lt;br&gt;tra thông tin khách hàng, hợp đồng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="13776" y="5608" width="134" height="134" as="geometry" />
+          <mxGeometry x="14436" y="5614" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-26" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;30. Cập&lt;br&gt;nhật, tạo mới thông tin biên bản thanh lý hợp đồng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="13608" y="5786" width="134" height="134" as="geometry" />
+          <mxGeometry x="15116" y="5614" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-27" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;32. Truy&lt;br&gt;xuất dữ liệu các loại hóa đơn theo tháng được yêu cầu&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="14331" y="5760" width="134" height="134" as="geometry" />
+          <mxGeometry x="13729" y="6270" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-29" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;33. Tính&lt;br&gt;tổng doanh thu theo tháng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="14525" y="5686" width="134" height="134" as="geometry" />
+          <mxGeometry x="13923" y="6196" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-30" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;31. Ghi&lt;br&gt;nhận thông tin tháng cần báo cáo doanh thu&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="14339" y="5958" width="134" height="134" as="geometry" />
+          <mxGeometry x="13737" y="6468" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-31" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;34. Cập&lt;br&gt;nhật bảng tổng hợp doanh thu&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="14499" y="5840" width="134" height="134" as="geometry" />
+          <mxGeometry x="13897" y="6350" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-32" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;35. Ghi&lt;br&gt;nhận thông tin tháng cần báo cáo hợp đồng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="14781" y="5688" width="134" height="134" as="geometry" />
+          <mxGeometry x="14179" y="6198" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-33" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;36. Truy&lt;br&gt;xuất dữ liệu các loại hợp đồng theo tháng được yêu cầu&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="14774" y="5863" width="134" height="134" as="geometry" />
+          <mxGeometry x="14172" y="6373" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-34" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;37. Phân&lt;br&gt;loại theo căn hộ, khách hàng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="15012" y="5762" width="134" height="134" as="geometry" />
+          <mxGeometry x="14410" y="6272" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-35" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;38. Cập&lt;br&gt;nhật bảng tổng hợp hợp đồng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="14978" y="5925" width="134" height="134" as="geometry" />
+          <mxGeometry x="14376" y="6435" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-37" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;39. Mở&lt;br&gt;form danh sách căn hộ&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="12739" y="5997" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-39" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;40. Truy&lt;br&gt;xuất danh mục thiết bị của căn hộ&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="14059" y="5619" width="134" height="134" as="geometry" />
+          <mxGeometry x="13731" y="6096" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-40" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;41. Cập&lt;br&gt;nhật thông tin thiết bị và tình trạng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="14100" y="5785" width="134" height="134" as="geometry" />
+          <mxGeometry x="13312" y="6075" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-41" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;42. Mở&lt;br&gt;form biên bản nghiệm thu&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="12723" y="6260" width="134" height="134" as="geometry" />
@@ -10062,6 +10071,14 @@
         </mxCell>
         <mxCell id="RcDNbR7dmBFHhFKF6sWh-80" value="&lt;p style=&quot;line-height:115%&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-bidi-font-size:&amp;lt;br/&amp;gt;14.0pt;line-height:115%;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;B07. HOADONDV&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="17035" y="4903" width="190" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="RcDNbR7dmBFHhFKF6sWh-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.701;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RcDNbR7dmBFHhFKF6sWh-22" target="RcDNbR7dmBFHhFKF6sWh-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="13404" y="5689" />
+              <mxPoint x="13404" y="4490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
