@@ -71,8 +71,8 @@
             <Array as="points">
               <mxPoint x="662" y="640" />
               <mxPoint x="760" y="640" />
-              <mxPoint x="760" y="1400" />
-              <mxPoint x="380" y="1400" />
+              <mxPoint x="760" y="1360" />
+              <mxPoint x="380" y="1360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -197,6 +197,16 @@
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-224" target="1VUmnsQ3BvMP89mHqFCF-225">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-224" target="1VUmnsQ3BvMP89mHqFCF-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="1180" />
+              <mxPoint x="1000" y="1180" />
+              <mxPoint x="1000" y="1420" />
+              <mxPoint x="620" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-224" value="26.&amp;nbsp;&lt;span style=&quot;line-height: 105%;&quot;&gt;Kiểm&lt;br&gt;tra thông tin khách hàng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="960" width="120" height="120" as="geometry" />
         </mxCell>
@@ -206,8 +216,8 @@
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-225" target="1VUmnsQ3BvMP89mHqFCF-237">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1340" y="1120" />
-              <mxPoint x="620" y="1120" />
+              <mxPoint x="1340" y="1100" />
+              <mxPoint x="620" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -274,8 +284,8 @@
             <mxPoint x="640.52" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="280" y="1504" />
-              <mxPoint x="280" y="1360" />
-              <mxPoint x="720" y="1360" />
+              <mxPoint x="280" y="1340" />
+              <mxPoint x="720" y="1340" />
               <mxPoint x="720" y="660" />
               <mxPoint x="641" y="660" />
             </Array>
@@ -288,10 +298,10 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="1500" />
-              <mxPoint x="520" y="1420" />
-              <mxPoint x="1000" y="1420" />
-              <mxPoint x="1000" y="1160" />
-              <mxPoint x="1058" y="1160" />
+              <mxPoint x="520" y="1400" />
+              <mxPoint x="960" y="1400" />
+              <mxPoint x="960" y="1140" />
+              <mxPoint x="1058" y="1140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -301,7 +311,7 @@
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-255" target="1VUmnsQ3BvMP89mHqFCF-257">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-255" value="&lt;div&gt;&lt;span style=&quot;line-height: 105%;&quot;&gt;&lt;font&gt;32.&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Kiểm&lt;br/&gt;tra thời hạn thuê&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-255" value="&lt;div&gt;&lt;span style=&quot;line-height: 105%;&quot;&gt;&lt;font&gt;37.&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Kiểm&lt;br/&gt;tra thông tin hợp đồng&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="1440" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-257" target="1VUmnsQ3BvMP89mHqFCF-258">
