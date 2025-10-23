@@ -180,6 +180,15 @@
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;shadow=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-196" target="1VUmnsQ3BvMP89mHqFCF-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-196" target="1VUmnsQ3BvMP89mHqFCF-378">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="640" />
+              <mxPoint x="2160" y="640" />
+              <mxPoint x="2160" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-196" value="14.&amp;nbsp;&lt;span&gt;Lưu&lt;br&gt;thông tin phiếu tiếp nhận&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=15;fontFamily=Helvetica;shadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1520" y="480" width="120" height="120" as="geometry" />
         </mxCell>
@@ -664,7 +673,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1058" y="498" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2680" y="380" />
+              <mxPoint x="2360" y="300" />
+              <mxPoint x="2360" y="380" />
               <mxPoint x="1100" y="380" />
             </Array>
           </mxGeometry>
@@ -696,8 +706,8 @@
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-390" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-377" target="1VUmnsQ3BvMP89mHqFCF-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2120" y="1020" />
-              <mxPoint x="2120" y="420" />
+              <mxPoint x="2200" y="1020" />
+              <mxPoint x="2200" y="420" />
               <mxPoint x="860" y="420" />
             </Array>
           </mxGeometry>
