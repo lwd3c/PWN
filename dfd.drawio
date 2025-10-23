@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Trang-1" id="BNuc9Tho2VInWAJtmNCV">
-    <mxGraphModel dx="1210" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1815" dy="1485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,35 +125,23 @@
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-204" target="1VUmnsQ3BvMP89mHqFCF-206">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-204" value="&lt;div&gt;&lt;span style=&quot;line-height: 105%;&quot;&gt;&lt;font&gt;10.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;line-height: 105%;&quot;&gt;Nhận&lt;br&gt;thông tin khách hàng qua mã khách hàng&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-204" value="&lt;div&gt;&lt;span style=&quot;line-height: 105%;&quot;&gt;&lt;font&gt;18.&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sinh&lt;br/&gt;tự động mã phiếu và ngày lập&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="560" y="720" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-206" target="1VUmnsQ3BvMP89mHqFCF-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-206" value="11.&amp;nbsp;&lt;span&gt;Chọn&lt;br&gt;loại căn hộ, tòa nhà&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-206" value="19.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Kiểm&lt;br/&gt;tra thông tin cần thanh toán&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="800" y="720" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-208" target="1VUmnsQ3BvMP89mHqFCF-210">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-208" value="12.&amp;nbsp;&lt;span style=&quot;line-height: 105%;&quot;&gt;Nhận&lt;br&gt;thông tin căn hộ qua số căn hộ&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-208" value="20.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Lưu&lt;br/&gt;thông tin phiếu yêu cầu trả căn hộ&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="1040" y="720" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-210" target="1VUmnsQ3BvMP89mHqFCF-212">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-210" value="13.&amp;nbsp;&lt;span&gt;Tự&lt;br&gt;động nhận ngày bắt đầu là ngày hiện tại&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-210" value="21.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Thông&lt;br/&gt;báo tạo phiếu trả thành công&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="1280" y="720" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-212" target="1VUmnsQ3BvMP89mHqFCF-213">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-212" value="14.&amp;nbsp;&lt;span&gt;Lưu&lt;br&gt;thông tin phiếu tiếp nhận&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="720" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-213" value="15.&amp;nbsp;&lt;span&gt;Thông&lt;br&gt;báo tạo phiếu tiếp nhận thành công&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="720" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
