@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Trang-1" id="BNuc9Tho2VInWAJtmNCV">
-    <mxGraphModel dx="1462" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4873" dy="3960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,37 +651,37 @@
           <mxGeometry x="2240" y="3120" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-375" value="&lt;font&gt;B01. CANHO&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="680" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="240" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-376" value="&lt;font&gt;B02. KHACHHANG&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="920" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="600" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-377" value="&lt;font&gt;LOAICANHO&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="1160" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="960" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-378" value="&lt;font&gt;B03. P_TIEPNHAN&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="1400" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="1320" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-379" value="B04. HOPDONG" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="1640" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="1680" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-380" value="&lt;span&gt;B05. HOADONTT&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="1880" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="2040" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-381" value="&lt;span&gt;B05.1. CT_HDTT&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="2000" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="2160" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-382" value="&lt;span&gt;B06. BIENBAN&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="2240" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="2520" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-383" value="&lt;span&gt;B06.1. CT_BIENBAN&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="2360" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="2640" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-384" value="&lt;span&gt;B07. HOADONDV&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="2600" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="3000" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-385" value="&lt;span&gt;B07.1. CT_HDDV&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="2720" width="240" height="120" as="geometry" />
+          <mxGeometry x="2680" y="3120" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
