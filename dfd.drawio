@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Trang-1" id="BNuc9Tho2VInWAJtmNCV">
-    <mxGraphModel dx="4203" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,11 +67,12 @@
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=15;fontFamily=Helvetica;shadow=0;fontStyle=1" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-189" target="1VUmnsQ3BvMP89mHqFCF-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=15;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-189" target="1VUmnsQ3BvMP89mHqFCF-193">
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=15;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-189" target="1VUmnsQ3BvMP89mHqFCF-193">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="440" />
-              <mxPoint x="1100" y="440" />
+              <mxPoint x="660" y="498" />
+              <mxPoint x="660" y="440" />
+              <mxPoint x="1058" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -659,6 +660,15 @@
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-355" value="82.&amp;nbsp;&lt;span&gt;Thông&lt;br&gt;báo tạo báo cáo hợp đồng thành công&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=15;fontFamily=Helvetica;shadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2240" y="3120" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-375" target="1VUmnsQ3BvMP89mHqFCF-193">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1058" y="498" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2680" y="380" />
+              <mxPoint x="1100" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-375" value="&lt;font&gt;B01. CANHO&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2680" y="240" width="240" height="120" as="geometry" />
         </mxCell>
@@ -671,8 +681,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-389" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-376" target="1VUmnsQ3BvMP89mHqFCF-189">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="690" />
+              <mxPoint x="2240" y="400" />
+              <mxPoint x="620" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-376" value="&lt;font&gt;B02. KHACHHANG&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2680" y="600" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-390" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-377" target="1VUmnsQ3BvMP89mHqFCF-191">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2120" y="1020" />
+              <mxPoint x="2120" y="420" />
+              <mxPoint x="860" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-377" value="&lt;font&gt;LOAICANHO&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=24;strokeWidth=3;shadow=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2680" y="960" width="240" height="120" as="geometry" />
