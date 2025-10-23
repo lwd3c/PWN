@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Trang-1" id="BNuc9Tho2VInWAJtmNCV">
-    <mxGraphModel dx="854" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,31 +466,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-305" value="58.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Kiểm&lt;br/&gt;tra phương thức thanh toán&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="2880" width="120" height="120" as="geometry" />
+          <mxGeometry x="320" y="3120" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-307" target="1VUmnsQ3BvMP89mHqFCF-308">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-307" value="&lt;div&gt;59.&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Xác&lt;br/&gt;nhận trạng thái giao dịch&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2880" width="120" height="120" as="geometry" />
+          <mxGeometry x="560" y="3120" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-308" target="1VUmnsQ3BvMP89mHqFCF-309">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-308" value="60.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Cập&lt;br/&gt;nhật trạng thái giao dịch&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="2880" width="120" height="120" as="geometry" />
+          <mxGeometry x="800" y="3120" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-309" value="61.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Hiển&lt;br/&gt;thị kết quả giao dịch&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="2880" width="120" height="120" as="geometry" />
+          <mxGeometry x="1040" y="3120" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-312" target="1VUmnsQ3BvMP89mHqFCF-314">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-312" value="62.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Đối&lt;br/&gt;chiếu hóa đơn, hợp đồng&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="3120" width="120" height="120" as="geometry" />
+          <mxGeometry x="320" y="3360" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-314" value="&lt;div&gt;63.&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Hiển&lt;br/&gt;thị số tiền cần thanh toán&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="3120" width="120" height="120" as="geometry" />
+          <mxGeometry x="560" y="3360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-319" target="1VUmnsQ3BvMP89mHqFCF-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-319" value="64.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Mở&lt;br/&gt;form hóa đơn dịch vụ&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2880" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-320" value="65.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Sinh&lt;br/&gt;tự động số hóa đơn và ngày lập&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2880" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-322" target="1VUmnsQ3BvMP89mHqFCF-324">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-322" value="&lt;div&gt;66.&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tính&lt;br/&gt;tiền dịch vụ điện, nước&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2880" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-324" target="1VUmnsQ3BvMP89mHqFCF-325">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-324" value="67.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Lưu&lt;br/&gt;hóa đơn dịch vụ&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2880" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-325" value="68.&amp;nbsp;&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Thông&lt;br/&gt;báo tạo hóa đơn dịch vụ thành công&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2880" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
