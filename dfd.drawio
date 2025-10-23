@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Trang-1" id="BNuc9Tho2VInWAJtmNCV">
-    <mxGraphModel dx="968" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,9 +142,18 @@
             <Array as="points">
               <mxPoint x="1170" y="560" />
               <mxPoint x="1170" y="610" />
-              <mxPoint x="1240" y="610" />
-              <mxPoint x="1240" y="2580" />
+              <mxPoint x="1230" y="610" />
+              <mxPoint x="1230" y="2580" />
               <mxPoint x="620" y="2580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-193" target="1VUmnsQ3BvMP89mHqFCF-322">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="498" />
+              <mxPoint x="1260" y="2800" />
+              <mxPoint x="620" y="2800" />
             </Array>
           </mxGeometry>
         </mxCell>
