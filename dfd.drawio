@@ -167,7 +167,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-193" value="12.&amp;nbsp;&lt;span style=&quot;line-height: 105%;&quot;&gt;Nhận&lt;br&gt;thông tin căn hộ qua số căn hộ&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=15;fontFamily=Helvetica;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="1VUmnsQ3BvMP89mHqFCF-193" value="12.&amp;nbsp;&lt;span style=&quot;line-height: 105%;&quot;&gt;Nhận&lt;br&gt;thông tin căn hộ qua mã căn hộ&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=15;fontFamily=Helvetica;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1040" y="480" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=15;shadow=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-195" target="1VUmnsQ3BvMP89mHqFCF-196">
