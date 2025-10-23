@@ -369,31 +369,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-263" value="40.&amp;nbsp;&lt;span&gt;Ghi&lt;br&gt;nhận thông tin tháng cần báo cáo doanh thu&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="1860" width="120" height="120" as="geometry" />
+          <mxGeometry x="-610" y="3170" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-265" target="1VUmnsQ3BvMP89mHqFCF-267">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-265" value="&lt;div&gt;&lt;span style=&quot;line-height: 105%;&quot;&gt;&lt;font&gt;41.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Truy&lt;br&gt;xuất dữ liệu các loại hóa đơn theo tháng được yêu&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 105%;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cầu&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="1860" width="120" height="120" as="geometry" />
+          <mxGeometry x="-370" y="3170" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-267" value="42.&amp;nbsp;&lt;span&gt;Tính&lt;br&gt;tổng doanh thu theo tháng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1860" width="120" height="120" as="geometry" />
+          <mxGeometry x="-130" y="3170" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-271" target="1VUmnsQ3BvMP89mHqFCF-273">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-271" value="43.&amp;nbsp;&lt;span&gt;Ghi&lt;br&gt;nhận thông tin tháng cần báo cáo hợp đồng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="2100" width="120" height="120" as="geometry" />
+          <mxGeometry x="-610" y="3410" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" edge="1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-273" target="1VUmnsQ3BvMP89mHqFCF-274">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-273" value="&lt;div&gt;&lt;span style=&quot;line-height: 105%;&quot;&gt;&lt;font&gt;44.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Truy&lt;br&gt;xuất dữ liệu&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;các loại hợp đồng theo tháng được yêu&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cầu&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="2100" width="120" height="120" as="geometry" />
+          <mxGeometry x="-370" y="3410" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-274" value="45.&amp;nbsp;&lt;span&gt;Phân&lt;br&gt;loại theo các loại hợp đồng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="2100" width="120" height="120" as="geometry" />
+          <mxGeometry x="-130" y="3410" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-275" value="46.&amp;nbsp;&lt;span&gt;Mở&lt;br&gt;form danh sách căn hộ&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;fontSize=16;fontFamily=Helvetica;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="1680" width="120" height="120" as="geometry" />
