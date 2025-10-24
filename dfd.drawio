@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Trang-1" id="BNuc9Tho2VInWAJtmNCV">
-    <mxGraphModel dx="4757" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3700" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,16 +463,6 @@
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=15;fontFamily=Helvetica;shadow=0;fontStyle=1" parent="1" source="1VUmnsQ3BvMP89mHqFCF-287" target="1VUmnsQ3BvMP89mHqFCF-289" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1VUmnsQ3BvMP89mHqFCF-402" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="1VUmnsQ3BvMP89mHqFCF-287" target="1VUmnsQ3BvMP89mHqFCF-375" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="662" y="1880" />
-              <mxPoint x="2440" y="1880" />
-              <mxPoint x="2440" y="400" />
-              <mxPoint x="2740" y="400" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="1VUmnsQ3BvMP89mHqFCF-287" value="&lt;div&gt;50.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cập&lt;br&gt;nhật thông tin căn hộ&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=15;fontFamily=Helvetica;shadow=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="560" y="1920" width="120" height="120" as="geometry" />
