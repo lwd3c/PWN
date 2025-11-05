@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="20983" dy="1371" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="24583" dy="3103" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11301,7 +11301,7 @@
           <mxGeometry y="269" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="32vSvCNUqvQuyM0n3j5B-207" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;NHOMNGUOIDUNG&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=59;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=20;align=center;rounded=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="11040" y="16160" width="200" height="149" as="geometry" />
+          <mxGeometry x="11055" y="16160" width="200" height="149" as="geometry" />
         </mxCell>
         <mxCell id="32vSvCNUqvQuyM0n3j5B-208" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;VI&quot;&gt;&lt;u&gt;&lt;b&gt;MaNND&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;rounded=0;strokeWidth=2;" parent="32vSvCNUqvQuyM0n3j5B-207" vertex="1">
           <mxGeometry y="59" width="200" height="30" as="geometry" />
@@ -11313,7 +11313,7 @@
           <mxGeometry y="119" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="32vSvCNUqvQuyM0n3j5B-214" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:105%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;QUYEN&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=59;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=20;align=center;rounded=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="11360" y="16160" width="200" height="119" as="geometry" />
+          <mxGeometry x="11370" y="16189" width="200" height="119" as="geometry" />
         </mxCell>
         <mxCell id="32vSvCNUqvQuyM0n3j5B-215" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;VI&quot;&gt;&lt;u&gt;&lt;b&gt;MaQuyen&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;rounded=0;strokeWidth=2;" parent="32vSvCNUqvQuyM0n3j5B-214" vertex="1">
           <mxGeometry y="59" width="200" height="30" as="geometry" />
@@ -11439,6 +11439,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11580" y="17160.105263157897" as="targetPoint" />
             <mxPoint x="11480" y="17160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZbqQPfcIVFKuQrEDANv-44" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=20;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.01;exitY=0.297;exitDx=0;exitDy=0;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="32vSvCNUqvQuyM0n3j5B-209" target="32vSvCNUqvQuyM0n3j5B-204">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="10967" y="16510" as="sourcePoint" />
+            <mxPoint x="11167" y="16280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZbqQPfcIVFKuQrEDANv-45" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=20;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="32vSvCNUqvQuyM0n3j5B-209" target="32vSvCNUqvQuyM0n3j5B-215">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="11391.04" y="16335" as="sourcePoint" />
+            <mxPoint x="11269.04" y="16401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
