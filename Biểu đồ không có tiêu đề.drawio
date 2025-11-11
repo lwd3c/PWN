@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="20517" dy="1509" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="20285" dy="1313" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11804,17 +11804,56 @@
         <mxCell id="tIP65dN-qmgmNDJu9Y82-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#000000, #7d8c9b);fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="16240" y="12750" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="tIP65dN-qmgmNDJu9Y82-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16130" y="12340" width="80" height="80" as="geometry" />
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tIP65dN-qmgmNDJu9Y82-6" target="tIP65dN-qmgmNDJu9Y82-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tIP65dN-qmgmNDJu9Y82-6" target="tIP65dN-qmgmNDJu9Y82-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-6" value="txtSoCH, txtToaNha,&amp;nbsp;&lt;div&gt;txtDiaChi,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;txtGiaThue, dpNgayKT, cbLoaiCH&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;not null&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15760" y="13080" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tIP65dN-qmgmNDJu9Y82-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tIP65dN-qmgmNDJu9Y82-7" target="tIP65dN-qmgmNDJu9Y82-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tIP65dN-qmgmNDJu9Y82-7" target="tIP65dN-qmgmNDJu9Y82-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tIP65dN-qmgmNDJu9Y82-7" value="txtSoCH, txtToaNha, txtDiaChi, txtGiaThue, dpNgayKT, cbLoaiCH enabled = true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15800" y="12840" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tIP65dN-qmgmNDJu9Y82-8" value="Click btnThemMoi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15800" y="13000" width="160" height="60" as="geometry" />
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tIP65dN-qmgmNDJu9Y82-8" target="tIP65dN-qmgmNDJu9Y82-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-8" value="Click btnThemMoi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="15800" y="12960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tIP65dN-qmgmNDJu9Y82-11" target="tIP65dN-qmgmNDJu9Y82-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-11" value="Click btnLamMoi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="16000" y="12960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-13" value="" style="ellipse;html=1;shape=endState;fontSize=14;labelBackgroundColor=none;fillColor=#000000;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="16060" y="13040" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-16" value="Thông báo yêu cầu không&amp;nbsp;&lt;div&gt;để trống dữ liệu&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15520" y="13110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-18" value="S" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15690" y="13110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tIP65dN-qmgmNDJu9Y82-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="16320" y="12720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="15480" y="13310" />
+              <mxPoint x="15480" y="12720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tIP65dN-qmgmNDJu9Y82-19" value="Tự động thêm các trường dữ liệu tương ứng vào dgvDanhSachCanHo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15800" y="13280" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
