@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1" pages="2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="24583" dy="2620" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4174,12 +4174,13 @@
           <mxGeometry height="201" width="326" x="-669" y="6940" as="geometry" />
         </mxCell>
         <mxCell id="5VrvB4JkDVyFzI9Sy50J-525" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;rounded=0;strokeWidth=2;" value="Hoàn thiện hồ sơ, giấy tờ" vertex="1">
-          <mxGeometry height="30" width="190" x="-1110" y="6234" as="geometry" />
+          <mxGeometry height="30" width="190" x="-1100" y="6090" as="geometry" />
         </mxCell>
-        <mxCell id="5VrvB4JkDVyFzI9Sy50J-531" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-484" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.019;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="5VrvB4JkDVyFzI9Sy50J-402" value="">
+        <mxCell id="5VrvB4JkDVyFzI9Sy50J-531" edge="1" parent="1" source="5VrvB4JkDVyFzI9Sy50J-484" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;startSize=8;endSize=8;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.019;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="5VrvB4JkDVyFzI9Sy50J-402" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="-935" y="6182" />
+              <mxPoint x="-1160" y="6510" />
+              <mxPoint x="-1160" y="6090" />
             </Array>
             <mxPoint x="-1370" y="6090" as="sourcePoint" />
             <mxPoint x="-1320" y="6040" as="targetPoint" />
@@ -12203,7 +12204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T24tx6jimgsJYqFg-vjB" name="Trang-2">
-    <mxGraphModel dx="1017" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
