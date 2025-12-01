@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1" pages="2">
   <diagram name="Trang-1" id="_7j_OcBcdc0eN0vQQsOP">
-    <mxGraphModel dx="20737" dy="1693" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="21044" dy="1952" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8376,7 +8376,7 @@
         <mxCell id="d5U_I4C5tERghzPNX9rR-487" parent="d5U_I4C5tERghzPNX9rR-472" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=18;rounded=0;strokeWidth=2;fontStyle=1;fontFamily=Helvetica;" value="&lt;span style=&quot;&quot; lang=&quot;VI&quot;&gt;Ghi chú&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="183" y="529" as="geometry" />
         </mxCell>
-        <mxCell id="d5U_I4C5tERghzPNX9rR-488" parent="1" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=18;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;strokeWidth=2;fontFamily=Helvetica;" value="&lt;span style=&quot;line-height: 105%;&quot; lang=&quot;VI&quot;&gt;KHÁCH HÀNG (7)&lt;/span&gt;" vertex="1">
+        <mxCell id="d5U_I4C5tERghzPNX9rR-488" parent="1" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=18;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;strokeWidth=2;fontFamily=Helvetica;" value="&lt;span style=&quot;line-height: 105%;&quot; lang=&quot;VI&quot;&gt;KHÁCH THUÊ (7)&lt;/span&gt;" vertex="1">
           <mxGeometry height="274" width="172" x="5137" y="13695" as="geometry" />
         </mxCell>
         <mxCell id="d5U_I4C5tERghzPNX9rR-489" parent="d5U_I4C5tERghzPNX9rR-488" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;fontSize=18;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;strokeWidth=2;fontStyle=1;fontFamily=Helvetica;" value="&lt;span style=&quot;&quot; lang=&quot;VI&quot;&gt;Họ và tên&lt;/span&gt;" vertex="1">
